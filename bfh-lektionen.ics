@@ -1,0 +1,1534 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude//BFH BB26 Stundenplan//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lektionen
+X-WR-TIMEZONE:Europe/Zurich
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:bb26-20260929-0815-pp-0@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20260929T081500
+DTEND;TZID=Europe/Zurich:20260929T120000
+SUMMARY:Prof. Pflege: Pflege-/Problemlösungsprozess (EBN)
+LOCATION:SPEN-A 425 / 426\, BFH Gesundheit\, Binningerstrasse 2\, 4142 M
+ ünchenstein
+DESCRIPTION:Modul: Professionelle Pflege\nArt: Seminar\nForm: Präsenz vo
+ r Ort\nThema 3. Vorbereitung (ca. 40 Min.): Pflichtliteratur Schippinger 
+ (2022)\, Comprehensive geriatric assessment.\nIm Seminar: Assessments Lan
+ gzeitpflege und Spitex\, Pflegebedarf an Fallbeispiel einschätzen\, Pfle
+ gediagnosen ableiten\, Pflegeplanung erstellen\, Vorgehen im Sinne von EB
+ N beurteilen.
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20260929-1315-ka-1@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20260929T131500
+DTEND;TZID=Europe/Zurich:20260929T170000
+SUMMARY:KA 1: Thema 1: Einführung\, Anamnese\, Allgemeinzustand
+LOCATION:SPEN-A 240 / 241 / 242 / 243 / 250 / 425\, BFH Gesundheit\, Binn
+ ingerstrasse 2\, 4142 Münchenstein
+DESCRIPTION:Modul: Klinisches Assessment 1\nArt: Skillstraining\nForm: Pr
+ äsenz vor Ort\nVorbereitung: Handlungsanalysen «Fokussierte Anamnese» 
+ und «Untersuchung Allgemeinzustand» lesen\, Fragen a bis g beantworten\
+ , Lernkontrolle auf Moodle.\nPflichtliteratur: Lindpaintner (2007)\, S. 1
+ 85–190\; Füeßl & Middeke (2022)\, Anamnese und klinische Untersuchung
+  (E-Book im OneDrive-Ordner E-Books)\, A2 Anamnese 2.4\, S. 30–39.\nMit
+ bringen: Stethoskop\, Goniometer\, Reflexhammer\, Stablampe\, Berufskleid
+ ung-Oberteil\, Handlungsanalysen.\nNachbereitung: ersten Abschnitt einer 
+ Anamnese durchführen (bis Differenzierung Leitsymptom)\, AZ einschätzen
+ \, Dokumentationsblatt anonymisiert\, Fragen mitbringen.
+CATEGORIES:Klinisches Assessment 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261008-1115-pp-2@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261008T111500
+DTEND;TZID=Europe/Zurich:20261008T120000
+SUMMARY:Prof. Pflege: Einführung PBL (online)
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Professionelle Pflege\nArt: Einführung\nForm: Online\
+ nVorher: Screencast «Einführung in das Problem Based Learning» auf Moo
+ dle (ca. 30 Min.). Bereitet auf die PBL-Sequenzen der Themen 5 bis 7 vor.
+ \nPräsenzpflicht PBL-Tutorate: mindestens 80 %.
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261008-1315-ka-3@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261008T131500
+DTEND;TZID=Europe/Zurich:20261008T150000
+SUMMARY:KA 1: Pathologie / Pathophysiologie 1
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Klinisches Assessment 1\nArt: Vorlesung\nForm: Präsen
+ z vor Ort\nVorbereitung: Checkliste «Grundlagenwissen Anatomie/Physiolog
+ ie» Herz-Kreislauf und Atmung (grüne Abschnitte Anatomie werden vorausg
+ esetzt)\, Lücken schliessen\, «Lernkontrollen Vorbereitungsauftrag Anat
+ omie» auf Moodle\, Fragen notieren. Pflichtliteratur: keine.\nNachbereit
+ ung: Pathophysiologie der Leitsymptome repetieren.
+CATEGORIES:Klinisches Assessment 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261008-1515-te-4@bfh-lektionen
+DTSTAMP:20261010T141208Z
+DTSTART;TZID=Europe/Zurich:20261008T151500
+DTEND;TZID=Europe/Zurich:20261008T170000
+SUMMARY:Englisch: Upper Intermediate: Module Introduction\, Reading Strat
+ egies
+LOCATION:SPEN-A 232\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Technical English 1\nArt: Seminar\nForm: Präsenz vor 
+ Ort\nTechnical Focus: Module Introduction\, Reading Strategies (Presentat
+ ion\, Handout).\nFCE: Introduction to Cambridge Examination FCE.\nHandbuc
+ h empfiehlt 1 bis 2 h Selbststudium pro Woche. Unterlagen auf Moodle.
+CATEGORIES:Technical English 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-dst-abgabe-1@bfh-lektionen
+DTSTAMP:20260928T211249Z
+DTSTART;TZID=Europe/Zurich:20261009T073000
+DTEND;TZID=Europe/Zurich:20261009T080000
+SUMMARY:Statistik ABGABE: Übung 1: Grundbegriffe und Lagemasse
+LOCATION:Moodle
+DESCRIPTION:Morgen 08:00 fällig: Übung 1: Grundbegriffe und Lagemasse
+CATEGORIES:Deskriptive Statistik
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen 08:00 fällig: Übung 1: Grundbegriffe und Lagemasse
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen 08:00 fällig: Übung 1: Grundbegriffe und Lagemasse
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen 08:00 fällig: Übung 1: Grundbegriffe und Lagemasse
+TRIGGER:-PT13H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-dst-abgabe-2@bfh-lektionen
+DTSTAMP:20260928T211249Z
+DTSTART;TZID=Europe/Zurich:20261009T073000
+DTEND;TZID=Europe/Zurich:20261009T080000
+SUMMARY:Statistik ABGABE: Übung 2: Streuungsmasse und Darstellungen
+LOCATION:Moodle
+DESCRIPTION:Morgen 08:00 fällig: Übung 2: Streuungsmasse und Darstellun
+ gen
+CATEGORIES:Deskriptive Statistik
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen 08:00 fällig: Übung 2: Streuungsmasse und Darstellun
+ gen
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen 08:00 fällig: Übung 2: Streuungsmasse und Darstellun
+ gen
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen 08:00 fällig: Übung 2: Streuungsmasse und Darstellun
+ gen
+TRIGGER:-PT13H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261009-0815-dst-5@bfh-lektionen
+DTSTAMP:20261010T141208Z
+DTSTART;TZID=Europe/Zurich:20261009T081500
+DTEND;TZID=Europe/Zurich:20261009T100000
+SUMMARY:Statistik: Epidemiologie
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Deskriptive Statistik\nArt: Vorlesung\nForm: Präsenz 
+ vor Ort\nThema 3. Weiterführende Literatur: Müller (2019)\, Statistik f
+ ür die Pflege\, S. 73–94.\nHeute 08:00 fällig: Übung 1 und Übung 2 
+ auf Moodle.
+CATEGORIES:Deskriptive Statistik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261009-1015-dst-6@bfh-lektionen
+DTSTAMP:20261010T141208Z
+DTSTART;TZID=Europe/Zurich:20261009T101500
+DTEND;TZID=Europe/Zurich:20261009T120000
+SUMMARY:Statistik: Normalverteilung
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Deskriptive Statistik\nArt: Vorlesung\nForm: Präsenz 
+ vor Ort\nThema 4. Weiterführende Literatur: Müller (2019)\, S. 90–94.
+CATEGORIES:Deskriptive Statistik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261009-1315-pp-7@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261009T131500
+DTEND;TZID=Europe/Zurich:20261009T150000
+SUMMARY:Prof. Pflege: Diversität und strukturell gerechte Pflegepraxis
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Professionelle Pflege\nArt: Vorlesung\nForm: Präsenz 
+ vor Ort\nThema 4. Pflichtliteratur: Czollek et al. (2023)\, Social Justic
+ e und Radical Diversity\, S. 800–815\; Zinsmeister (2023)\, Diskriminie
+ rung von Menschen mit Behinderungen\, S. 632–648.\nInhalte: Diversity\,
+  Social Justice\, strukturelle Diskriminierung\, Ableismus\, Diskriminier
+ ungsmatrix\, Gesprächsmethode Mahloquet.
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261009-1515-pp-8@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261009T151500
+DTEND;TZID=Europe/Zurich:20261009T170000
+SUMMARY:Prof. Pflege: Diversität und strukturell gerechte Pflegepraxis
+LOCATION:SPEN-A 425 / 426\, BFH Gesundheit\, Binningerstrasse 2\, 4142 M
+ ünchenstein
+DESCRIPTION:Modul: Professionelle Pflege\nArt: Seminar\nForm: Präsenz vo
+ r Ort\nThema 4. Vorbereitung (ca. 15 Min.): Stichwortartige Notizen zu ei
+ ner Situation aus deinem Arbeitsalltag\, in der jemand (Patient*in\, Koll
+ eg*in\, du selbst) Diskriminierung erlebt hat\, und ins Seminar mitbringe
+ n. Ohne eigenes Beispiel: zu Ableismus im Gesundheitswesen recherchieren 
+ und einen fiktiven Fall kreieren.
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261012-1015-dst-9@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261012T101500
+DTEND;TZID=Europe/Zurich:20261012T120000
+SUMMARY:Statistik: Epidemiologie / Normalverteilung
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Deskriptive Statistik\nArt: Seminar\nForm: Präsenz vo
+ r Ort\nÜbungen zu Thema 3 und 4. Abgabe Übung 3 und 4 auf Moodle bis Fr
+  23.10.\, 08:00.
+CATEGORIES:Deskriptive Statistik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261012-1315-pp-10@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261012T131500
+DTEND;TZID=Europe/Zurich:20261012T140000
+SUMMARY:Prof. Pflege: PBL 1: Schritt 1–5 (Gruppe 2)
+LOCATION:SPEN-A 256\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Professionelle Pflege\nArt: PBL\nForm: Präsenz vor Or
+ t\nThema 5 «Schwierige Patient*innen»\, Fall Emma Wehrli (89 J.\, Spite
+ x).\nPflichtliteratur Thema 5: Geriatrische Depressionsskala GDS (Alter u
+ nd Sucht\, 2025)\; Alzheimer Schweiz (2024)\, Depression und Demenz\; NDR
+  (2025)\, Altersdepression: Was jetzt hilft (Video)\; Scholze & Keita (20
+ 25)\, Depression im Alter erkennen\; SAMW (2018)\, Betreuung und Behandlu
+ ng von Menschen mit Demenz\, Kap. 3.1\, 3.2\, 3.4\, 4.1.\nPräsenzpflicht
+  PBL-Tutorate: mindestens 80 %.
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261013-0815-pp-11@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261013T081500
+DTEND;TZID=Europe/Zurich:20261013T090000
+SUMMARY:Prof. Pflege: Expert*innengespräch zu BSS 1 (online)
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Professionelle Pflege\nArt: Expert*innengespräch\nFor
+ m: Online\nSicherung von BSS 1 (Highlights der Professionsgeschichte\, Pa
+ dlet war bis 12.10. fällig). Eigene Fragen zum Thema mitbringen.
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261013-0915-pp-12@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261013T091500
+DTEND;TZID=Europe/Zurich:20261013T100000
+SUMMARY:Prof. Pflege: Expert*innengespräch zu BSS 2 (online)
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Professionelle Pflege\nArt: Expert*innengespräch\nFor
+ m: Online\nSicherung von BSS 2 (Rollenentwicklung in der Pflege). Eigene 
+ Fragen mitbringen.
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261013-1015-pp-13@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261013T101500
+DTEND;TZID=Europe/Zurich:20261013T120000
+SUMMARY:Prof. Pflege: Pädiatrische Pflege im ambulanten Setting (online)
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Professionelle Pflege\nArt: Vorlesung\nForm: Online\nT
+ hema 4. Inhalte: Struktur und Finanzierung der ambulanten pädiatrischen 
+ Versorgung\, pflegerische Schwerpunkte\, Diskriminierung bei der Bedarfsa
+ bklärung.
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261013-1315-ka-14@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261013T131500
+DTEND;TZID=Europe/Zurich:20261013T170000
+SUMMARY:KA 1: Thema 2: Herz-Kreislaufsystem
+LOCATION:SPEN-A 240 / 241 / 242 / 243 / 250 / 425\, BFH Gesundheit\, Binn
+ ingerstrasse 2\, 4142 Münchenstein
+DESCRIPTION:Modul: Klinisches Assessment 1\nArt: Skillstraining\nForm: Pr
+ äsenz vor Ort\nVorbereitung: Handlungsanalysen Herz-Kreislauf-Untersuchu
+ ng und ISBAR lesen\, Fragen a bis g\, Auskultationsbefunde des Herzens au
+ f Moodle anhören\, Lernkontrolle.\nPflichtliteratur: van Gestel et al. (
+ 2014)\, Auskultation des Herzens\, S. 174–178\; Füeßl & Middeke (2022
+ )\, Anamnese und klinische Untersuchung (E-Book im OneDrive-Ordner E-Book
+ s): C1 1.6.2 S. 181–182\; C2 2.2.2 S. 188–190 und 2.2.7 S. 217\; C5 5
+ .1–5.4 S. 338–351 (mit Auslassungen)\; C7 7.3.2 Zyanose S. 407.\nMitb
+ ringen: Stethoskop\, Goniometer\, Reflexhammer\, Stablampe\, Berufskleidu
+ ng-Oberteil\, Handlungsanalysen.\nNachbereitung: Untersuchung an einer Pe
+ rson im Praxisfeld oder privat durchführen\, Befundblatt anonymisiert au
+ sfüllen\, Fragen notieren und beides in den nächsten Unterricht mitbrin
+ gen.
+CATEGORIES:Klinisches Assessment 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261022-0815-pp-15@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261022T081500
+DTEND;TZID=Europe/Zurich:20261022T100000
+SUMMARY:Prof. Pflege: Psychisch vulnerable Menschen im Akutspital
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Professionelle Pflege\nArt: Vorlesung\nForm: Präsenz 
+ vor Ort\nThema 5. Betreuung von Menschen mit psychiatrischen Krankheitsbi
+ ldern im somatischen Setting\, interprofessionelle Zusammenarbeit.
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261022-1015-pp-16@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261022T101500
+DTEND;TZID=Europe/Zurich:20261022T120000
+SUMMARY:Prof. Pflege: Deeskalationsmanagement
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Professionelle Pflege\nArt: Vorlesung\nForm: Präsenz 
+ vor Ort\nThema 5. Umgang mit aggressivem Verhalten\, Deeskalation.
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261022-1515-te-17@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261022T151500
+DTEND;TZID=Europe/Zurich:20261022T170000
+SUMMARY:Englisch: Upper Intermediate: Medical Practitioners
+LOCATION:SPEN-A 232\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Technical English 1\nArt: Seminar\nForm: Präsenz vor 
+ Ort\nTechnical Focus: Medical Practitioners (Handout).\nFCE: Question and
+  Verb Forms (Presentation\, Handout).
+CATEGORIES:Technical English 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261022-1715-allg-18@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261022T171500
+DTEND;TZID=Europe/Zurich:20261022T180000
+SUMMARY:BFH: Infoveranstaltung Übergangskohorten (FLINC) (online)
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Allgemein\nArt: Info\nForm: Online
+CATEGORIES:Allgemein
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-dst-abgabe-3@bfh-lektionen
+DTSTAMP:20260928T211249Z
+DTSTART;TZID=Europe/Zurich:20261023T073000
+DTEND;TZID=Europe/Zurich:20261023T080000
+SUMMARY:Statistik ABGABE: Übung 3: Epidemiologie
+LOCATION:Moodle
+DESCRIPTION:Morgen 08:00 fällig: Übung 3: Epidemiologie
+CATEGORIES:Deskriptive Statistik
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen 08:00 fällig: Übung 3: Epidemiologie
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen 08:00 fällig: Übung 3: Epidemiologie
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen 08:00 fällig: Übung 3: Epidemiologie
+TRIGGER:-PT13H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-dst-abgabe-4@bfh-lektionen
+DTSTAMP:20260928T211249Z
+DTSTART;TZID=Europe/Zurich:20261023T073000
+DTEND;TZID=Europe/Zurich:20261023T080000
+SUMMARY:Statistik ABGABE: Übung 4: Normalverteilung
+LOCATION:Moodle
+DESCRIPTION:Morgen 08:00 fällig: Übung 4: Normalverteilung
+CATEGORIES:Deskriptive Statistik
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen 08:00 fällig: Übung 4: Normalverteilung
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen 08:00 fällig: Übung 4: Normalverteilung
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen 08:00 fällig: Übung 4: Normalverteilung
+TRIGGER:-PT13H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261023-0815-dst-19@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261023T081500
+DTEND;TZID=Europe/Zurich:20261023T100000
+SUMMARY:Statistik: Binomialverteilung
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Deskriptive Statistik\nArt: Vorlesung\nForm: Präsenz 
+ vor Ort\nThema 5. Weiterführende Literatur: Müller (2019)\, S. 81–84.
+ \nHeute 08:00 fällig: Übung 3 und Übung 4 auf Moodle.
+CATEGORIES:Deskriptive Statistik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261023-1015-dst-20@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261023T101500
+DTEND;TZID=Europe/Zurich:20261023T120000
+SUMMARY:Statistik: Binomialverteilung
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Deskriptive Statistik\nArt: Seminar\nForm: Präsenz vo
+ r Ort\nÜbungen zu Thema 5. Achtung: Abgabe Übung 5 schon Do 05.11.\, 08
+ :00.
+CATEGORIES:Deskriptive Statistik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261023-1215-wu564262@bfh-lektionen
+DTSTAMP:20261010T141236Z
+DTSTART;TZID=Europe/Zurich:20261023T121500
+DTEND;TZID=Europe/Zurich:20261023T130000
+SUMMARY:Studienbegleitung: Mentor-Meeting Lehrperson 29
+LOCATION:Ort noch offen (siehe WebUntis)
+DESCRIPTION:Modul: Studienbegleitung\nAus WebUntis übernommen (automatis
+ ch).
+CATEGORIES:Studienbegleitung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261023-1315-ka-21@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261023T131500
+DTEND;TZID=Europe/Zurich:20261023T150000
+SUMMARY:KA 1: Pathologie / Pathophysiologie 2
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Klinisches Assessment 1\nArt: Vorlesung\nForm: Präsen
+ z vor Ort\nVorbereitung: Checkliste «Grundlagenwissen Anatomie/Physiolog
+ ie» Verdauungssystem und Harnsystem\, Lücken schliessen\, Lernkontrolle
+ n Anatomie auf Moodle\, Fragen notieren. Pflichtliteratur: keine.\nNachbe
+ reitung: Pathophysiologie der Leitsymptome repetieren.
+CATEGORIES:Klinisches Assessment 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261026-0815-ka-22@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261026T081500
+DTEND;TZID=Europe/Zurich:20261026T120000
+SUMMARY:KA 1: Thema 3: Lunge
+LOCATION:SPEN-A 240 / 241 / 242 / 243 / 250 / 425\, BFH Gesundheit\, Binn
+ ingerstrasse 2\, 4142 Münchenstein
+DESCRIPTION:Modul: Klinisches Assessment 1\nArt: Skillstraining\nForm: Pr
+ äsenz vor Ort\nVorbereitung: Auskultationsbefunde der Lunge auf Moodle a
+ nhören\; Handlungsanalyse Lungenuntersuchung und Tabelle «Befunde der L
+ ungenuntersuchung» lesen\; Fragen a bis g\; Lernkontrolle.\nPflichtliter
+ atur: Füeßl & Middeke (2022)\, Anamnese und klinische Untersuchung (E-B
+ ook im OneDrive-Ordner E-Books): C2 Thorax 2.3.1–2.3.4\, S. 217–227.\
+ nMitbringen: Stethoskop\, Goniometer\, Reflexhammer\, Stablampe\, Berufsk
+ leidung-Oberteil\, Handlungsanalysen.\nNachbereitung: Untersuchung an ein
+ er Person im Praxisfeld oder privat durchführen\, Befundblatt anonymisie
+ rt ausfüllen\, Fragen notieren und beides in den nächsten Unterricht mi
+ tbringen.
+CATEGORIES:Klinisches Assessment 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261026-1315-pp-23@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261026T131500
+DTEND;TZID=Europe/Zurich:20261026T170000
+SUMMARY:Prof. Pflege: Delirmanagement
+LOCATION:SPEN-A 425 / 426\, BFH Gesundheit\, Binningerstrasse 2\, 4142 M
+ ünchenstein
+DESCRIPTION:Modul: Professionelle Pflege\nArt: Seminar\nForm: Präsenz vo
+ r Ort\nThema 5. Inhalte: Einflussfaktoren\, die ein Delir begünstigen\; 
+ Screenings und Assessments zur Delir-Früherkennung (Nutzen und Grenzen)\
+ ; Rolle von Bachelor-Pflegenden in der Delirprävention.
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261027-0815-pp-24@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261027T081500
+DTEND;TZID=Europe/Zurich:20261027T090000
+SUMMARY:Prof. Pflege: PRÜFUNG: Schriftliche Prüfung Themen 1–4 (30 %)
+LOCATION:SPEN-A 411\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Morgen: Prof. Pflege: PRÜFUNG: Schriftliche Prüfung Themen 
+ 1–4 (30 %)
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Prof. Pflege: PRÜFUNG: Schriftliche Prüfung Themen 
+ 1–4 (30 %)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Prof. Pflege: PRÜFUNG: Schriftliche Prüfung Themen 
+ 1–4 (30 %)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Prof. Pflege: PRÜFUNG: Schriftliche Prüfung Themen 
+ 1–4 (30 %)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261027-0915-pp-25@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261027T091500
+DTEND;TZID=Europe/Zurich:20261027T100000
+SUMMARY:Prof. Pflege: PBL 1: Schritt 7 (Gruppe 2)
+LOCATION:SPEN-A 426\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Professionelle Pflege\nArt: PBL\nForm: Präsenz vor Or
+ t\nPBL 1 Emma Wehrli\, Schritt 7: Ergebnisse aus dem Selbststudium in der
+  Gruppe zusammentragen.\nPräsenzpflicht PBL-Tutorate: mindestens 80 %.
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261027-1015-pp-26@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261027T101500
+DTEND;TZID=Europe/Zurich:20261027T110000
+SUMMARY:Prof. Pflege: PBL 2: Schritt 1–5 (Gruppe 2)
+LOCATION:SPEN-A 426\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Professionelle Pflege\nArt: PBL\nForm: Präsenz vor Or
+ t\nThema 6 «Gemeinsam finden wir eine Lösung»\, Fall Herbert Blum (56 
+ J.\, Glioblastom\, interprofessionelle Austrittsplanung).\nPflichtliterat
+ ur Thema 6: Körner (2024)\, Interprofessionelle Zusammenarbeit als Zukun
+ ftsperspektive\; SAMW (2020a)\, Charta 2.0\; SAMW (2020b)\, Interprofessi
+ onelle Zusammenarbeit\, S. 7–12 und 47–48.\nPräsenzpflicht PBL-Tutor
+ ate: mindestens 80 %.
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261027-1115-pp-27@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261027T111500
+DTEND;TZID=Europe/Zurich:20261027T120000
+SUMMARY:Prof. Pflege: Expert*innenforum: Psychische und kognitive Vulnera
+ bilität
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Professionelle Pflege\nArt: Expert*innenforum\nForm: P
+ räsenz vor Ort\nThema 5\, Psychische und kognitive Vulnerabilität. Frag
+ en aus PBL 1 mitbringen.
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261027-1315-pp-28@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261027T131500
+DTEND;TZID=Europe/Zurich:20261027T150000
+SUMMARY:Prof. Pflege: Grundlagen interprofessionelle Gesundheitsversorgun
+ g (online)
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Professionelle Pflege\nArt: Vorlesung\nForm: Online\nT
+ hema 6. Grundlagen und aktuelles Forschungswissen zur interprofessionelle
+ n Zusammenarbeit.
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-dst-abgabe-5@bfh-lektionen
+DTSTAMP:20260928T211249Z
+DTSTART;TZID=Europe/Zurich:20261105T073000
+DTEND;TZID=Europe/Zurich:20261105T080000
+SUMMARY:Statistik ABGABE: Übung 5: Binomialverteilung
+LOCATION:Moodle
+DESCRIPTION:Morgen 08:00 fällig: Übung 5: Binomialverteilung
+CATEGORIES:Deskriptive Statistik
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen 08:00 fällig: Übung 5: Binomialverteilung
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen 08:00 fällig: Übung 5: Binomialverteilung
+TRIGGER:-PT13H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen 08:00 fällig: Übung 5: Binomialverteilung
+TRIGGER:-PT13H30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261105-0815-ka-29@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261105T081500
+DTEND;TZID=Europe/Zurich:20261105T100000
+SUMMARY:KA 1: Pathologie / Pathophysiologie 3
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Klinisches Assessment 1\nArt: Vorlesung\nForm: Präsen
+ z vor Ort\nVorbereitung: Checkliste «Grundlagenwissen Anatomie/Physiolog
+ ie» Nervensystem\, Lücken schliessen\, Lernkontrollen Anatomie auf Mood
+ le\, Fragen notieren. Pflichtliteratur: keine.\nNachbereitung: Pathophysi
+ ologie der Leitsymptome repetieren.
+CATEGORIES:Klinisches Assessment 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261105-1015-dst-30@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261105T101500
+DTEND;TZID=Europe/Zurich:20261105T120000
+SUMMARY:Statistik: Repetitorium
+LOCATION:SPEN-A 255 / 256\, BFH Gesundheit\, Binningerstrasse 2\, 4142 M
+ ünchenstein
+DESCRIPTION:Modul: Deskriptive Statistik\nArt: Seminar\nForm: Präsenz vo
+ r Ort\nOffene Fragen zu allen Themen mitbringen.\nHeute 08:00 fällig: Ü
+ bung 5 auf Moodle.
+CATEGORIES:Deskriptive Statistik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261105-1315-te-31@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261105T131500
+DTEND;TZID=Europe/Zurich:20261105T150000
+SUMMARY:Englisch: Upper Intermediate: Health Professionals and Healthcare
+LOCATION:SPEN-A 232\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Technical English 1\nArt: Seminar\nForm: Präsenz vor 
+ Ort\nTechnical Focus: Health Professionals and Healthcare (Presentation\,
+  Handout).\nFCE: Reading & Vocabulary\; Grammar: Future Tenses.
+CATEGORIES:Technical English 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261106-0815-dst-32@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261106T081500
+DTEND;TZID=Europe/Zurich:20261106T094500
+SUMMARY:Statistik: PRÜFUNG: Modulabschlussprüfung (70 %)
+LOCATION:SPEN-A 411\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Morgen: Statistik: PRÜFUNG: Modulabschlussprüfung (70 %)
+CATEGORIES:Deskriptive Statistik
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Statistik: PRÜFUNG: Modulabschlussprüfung (70 %)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Statistik: PRÜFUNG: Modulabschlussprüfung (70 %)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Statistik: PRÜFUNG: Modulabschlussprüfung (70 %)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261106-1015-pp-33@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261106T101500
+DTEND;TZID=Europe/Zurich:20261106T120000
+SUMMARY:Prof. Pflege: Gelebte Interprofessionalität: Praxisbeispiel (onl
+ ine)
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Professionelle Pflege\nArt: Vorlesung\nForm: Online\nT
+ hema 6. Praxisbeispiel: ambulanter Vorabklärungstag vor komplexen Operat
+ ionen im Kopf-Hals-Tumorzentrum der Insel Gruppe.\nOnline. Ersatzraum vor
+  Ort\, falls du an der BFH bist: SPEN-A 425.
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261106-1315-pp-34@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261106T131500
+DTEND;TZID=Europe/Zurich:20261106T140000
+SUMMARY:Prof. Pflege: PBL 2: Schritt 7 (Gruppe 2)
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Professionelle Pflege\nArt: PBL\nForm: Präsenz vor Or
+ t\nPBL 2 Herbert Blum\, Schritt 7: Ergebnisse zusammentragen.\nPräsenzpf
+ licht PBL-Tutorate: mindestens 80 %.
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261106-1415-pp-35@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261106T141500
+DTEND;TZID=Europe/Zurich:20261106T150000
+SUMMARY:Prof. Pflege: Expert*innenforum: Intra-\, Interprofessionalität 
+ (online)
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Professionelle Pflege\nArt: Expert*innenforum\nForm: O
+ nline\nThema 6\, Interprofessionalität: Theorie und Praxis. Fragen aus P
+ BL 2 mitbringen.\nOnline. Ersatzraum vor Ort\, falls du an der BFH bist: 
+ SPEN-A 425.
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261106-1515-pp-36@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261106T151500
+DTEND;TZID=Europe/Zurich:20261106T160000
+SUMMARY:Prof. Pflege: PBL 3: Schritt 1–5 (Gruppe 2)
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Professionelle Pflege\nArt: PBL\nForm: Präsenz vor Or
+ t\nThema 7 «Weihnachten mit Grippe im Bett»\, Public-Health-Perspektive
+ .\nPflichtliteratur Thema 7: SRF 10 vor 10 (16.12.2022)\, Min. 17:03–20
+ :52\; BAG\, Influenza (Grippe)\; Egger\, Razum & Rieder (2021)\, Public H
+ ealth Kompakt\, Kap. 4\, S. 161–175.\nPräsenzpflicht PBL-Tutorate: min
+ destens 80 %.
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261109-1115-pp-37@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261109T111500
+DTEND;TZID=Europe/Zurich:20261109T120000
+SUMMARY:Prof. Pflege: PBL 3: Schritt 7 (Gruppe 2)
+LOCATION:SPEN-A 256\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Professionelle Pflege\nArt: PBL\nForm: Präsenz vor Or
+ t\nPBL 3 Grippe\, Schritt 7: Ergebnisse zusammentragen.\nPräsenzpflicht 
+ PBL-Tutorate: mindestens 80 %.
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261109-1315-ka-38@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261109T131500
+DTEND;TZID=Europe/Zurich:20261109T170000
+SUMMARY:KA 1: Thema 4: Abdomen
+LOCATION:SPEN-A 240 / 241 / 242 / 243 / 250 / 425\, BFH Gesundheit\, Binn
+ ingerstrasse 2\, 4142 Münchenstein
+DESCRIPTION:Modul: Klinisches Assessment 1\nArt: Skillstraining\nForm: Pr
+ äsenz vor Ort\nVorbereitung: Handlungsanalysen «Untersuchung des Abdome
+ ns» und «Mund-Rachenuntersuchung» lesen\, Fragen a bis g\, Lernkontrol
+ le.\nPflichtliteratur: Füeßl & Middeke (2022)\, Anamnese und klinische 
+ Untersuchung (E-Book im OneDrive-Ordner E-Books): C1 1.5.2 S. 169–171\;
+  C3 3.1.2–3.1.7 und 3.2 S. 248–270 (mit Auslassungen)\; C4 4.1.1 S. 2
+ 98–303 und 4.2.2 S. 327–330.\nMitbringen: Stethoskop\, Goniometer\, R
+ eflexhammer\, Stablampe\, Berufskleidung-Oberteil\, Handlungsanalysen.\nN
+ achbereitung: Untersuchung an einer Person im Praxisfeld oder privat durc
+ hführen\, Befundblatt anonymisiert ausfüllen\, Fragen notieren und beid
+ es in den nächsten Unterricht mitbringen.
+CATEGORIES:Klinisches Assessment 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261110-1015-pp-39@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261110T101500
+DTEND;TZID=Europe/Zurich:20261110T120000
+SUMMARY:Prof. Pflege: Public Health (online)
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Professionelle Pflege\nArt: Vorlesung\nForm: Online\nT
+ hema 7. Einführung in Public Health und Epidemiologie\, Prävention und 
+ Gesundheitsförderung.
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261110-1315-pp-40@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261110T131500
+DTEND;TZID=Europe/Zurich:20261110T150000
+SUMMARY:Prof. Pflege: Einführung Gruppenarbeit Public Health
+LOCATION:SPEN-A 425 / 426\, BFH Gesundheit\, Binningerstrasse 2\, 4142 M
+ ünchenstein
+DESCRIPTION:Modul: Professionelle Pflege\nArt: Seminar\nForm: Präsenz vo
+ r Ort\nThema 8. Infos zur Gruppenarbeit\, Gruppen von 4 bis 5 Personen bi
+ lden\, Thema wählen (Themenliste auf Moodle\, möglichst mit Bezug zur e
+ igenen Institution).
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261110-1515-ifs-41@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261110T151500
+DTEND;TZID=Europe/Zurich:20261110T170000
+SUMMARY:Inferenzstatistik: Moduleinführung\; Vertrauensintervall
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Inferenzstatistik\nArt: Vorlesung\nForm: Präsenz vor 
+ Ort\nModulhandbuch noch nicht verfügbar.
+CATEGORIES:Inferenzstatistik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261119-0815-pp-42@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261119T081500
+DTEND;TZID=Europe/Zurich:20261119T100000
+SUMMARY:Prof. Pflege: Resilienz (online)
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Professionelle Pflege\nArt: Vorlesung\nForm: Online\nT
+ hema 7. Resilienz: Stressentstehung\, Schutz- und Risikofaktoren\, Resili
+ enzfaktoren\, Techniken zur Stärkung\, eigene Situation im Pflegealltag 
+ analysieren.\nOnline. Ersatzraum vor Ort\, falls du an der BFH bist: SPEN
+ -A 425.
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261119-1015-pp-43@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261119T101500
+DTEND;TZID=Europe/Zurich:20261119T120000
+SUMMARY:Prof. Pflege: Public Health: Selbständiges Arbeiten und Beratung
+LOCATION:SPEN-A 425 / 426\, BFH Gesundheit\, Binningerstrasse 2\, 4142 M
+ ünchenstein
+DESCRIPTION:Modul: Professionelle Pflege\nArt: Gruppenarbeit\nForm: Präs
+ enz vor Ort\nThema 8. Selbständiges Arbeiten an der Gruppenarbeit\, Bera
+ tung vor Ort durch die Lehrpersonen.
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261119-1215-pp-44@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261119T121500
+DTEND;TZID=Europe/Zurich:20261119T130000
+SUMMARY:Prof. Pflege: Prüfungseinsicht schriftliche Prüfung
+LOCATION:SPEN-A 255\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Professionelle Pflege\nArt: Prüfungseinsicht\nForm: P
+ räsenz vor Ort\nNur mit Anmeldung auf Moodle. Keine Kopien\, keine Notiz
+ en.
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261119-1515-te-45@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261119T151500
+DTEND;TZID=Europe/Zurich:20261119T170000
+SUMMARY:Englisch: Upper Intermediate: Parts of the Body and Physical Exam
+ inations
+LOCATION:SPEN-A 232\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Technical English 1\nArt: Seminar\nForm: Präsenz vor 
+ Ort\nTechnical Focus: Parts of the Body and Physical Examinations (Presen
+ tation\, Handout).\nFCE: Listening\; Use of English.
+CATEGORIES:Technical English 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261120-0815-ifs-46@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261120T081500
+DTEND;TZID=Europe/Zurich:20261120T100000
+SUMMARY:Inferenzstatistik: z-Test
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Inferenzstatistik\nArt: Vorlesung\nForm: Präsenz vor 
+ Ort\nModulhandbuch noch nicht verfügbar.
+CATEGORIES:Inferenzstatistik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261120-1015-ifs-47@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261120T101500
+DTEND;TZID=Europe/Zurich:20261120T120000
+SUMMARY:Inferenzstatistik: t-Test
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Inferenzstatistik\nArt: Vorlesung\nForm: Präsenz vor 
+ Ort\nModulhandbuch noch nicht verfügbar.
+CATEGORIES:Inferenzstatistik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261120-1315-pp-48@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261120T131500
+DTEND;TZID=Europe/Zurich:20261120T170000
+SUMMARY:Prof. Pflege: Beratung Public Health
+LOCATION:SPEN-A 425 / 426\, BFH Gesundheit\, Binningerstrasse 2\, 4142 M
+ ünchenstein
+DESCRIPTION:Modul: Professionelle Pflege\nArt: Gruppenarbeit\nForm: Präs
+ enz vor Ort\nThema 8. Beratung zur Gruppenarbeit (laut Handbuch einmal vo
+ r Ort\, einmal online via MS Teams).
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261123-1315-ka-49@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261123T131500
+DTEND;TZID=Europe/Zurich:20261123T170000
+SUMMARY:KA 1: Thema 5: Nervensystem
+LOCATION:SPEN-A 240 / 241 / 242 / 243 / 250 / 425\, BFH Gesundheit\, Binn
+ ingerstrasse 2\, 4142 Münchenstein
+DESCRIPTION:Modul: Klinisches Assessment 1\nArt: Skillstraining\nForm: Pr
+ äsenz vor Ort\nVorbereitung: Handlungsanalyse «Neurologische Untersuchu
+ ng» lesen\, Fragen a bis h\, Lernkontrolle.\nPflichtliteratur: Füeßl &
+  Middeke (2022)\, Anamnese und klinische Untersuchung (E-Book im OneDrive
+ -Ordner E-Books): C9 9.1–9.2.1\, 9.2.9–9.2.12\, 9.2.14 (S. 434–461\
+ , Auswahl)\; C1 1.4.9 Iris und Pupille S. 153–155.\nMitbringen: Stethos
+ kop\, Goniometer\, Reflexhammer\, Stablampe\, Berufskleidung-Oberteil\, H
+ andlungsanalysen.\nNachbereitung: Untersuchung an einer Person im Praxisf
+ eld oder privat durchführen\, Befundblatt anonymisiert ausfüllen\, Frag
+ en notieren und beides in den nächsten Unterricht mitbringen.
+CATEGORIES:Klinisches Assessment 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261124-1015-ifs-50@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261124T101500
+DTEND;TZID=Europe/Zurich:20261124T120000
+SUMMARY:Inferenzstatistik: z-Test / t-Test
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Inferenzstatistik\nArt: Seminar\nForm: Präsenz vor Or
+ t\nModulhandbuch noch nicht verfügbar.
+CATEGORIES:Inferenzstatistik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261124-1315-pp-51@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261124T131500
+DTEND;TZID=Europe/Zurich:20261124T170000
+SUMMARY:Prof. Pflege: Mini-Präsentationen / Diskussion Public Health
+LOCATION:SPEN-A 425 / 426\, BFH Gesundheit\, Binningerstrasse 2\, 4142 M
+ ünchenstein
+DESCRIPTION:Modul: Professionelle Pflege\nArt: Gruppenarbeit\nForm: Präs
+ enz vor Ort\nThema 8. Präsentation pro Gruppe 10 Min. plus 10 Min. Disku
+ ssion\, Visualisierung Pflicht (PPP oder Flipchart)\, alle beteiligen sic
+ h\, Anwesenheit erwartet. Nicht bewertet.\nInhalt: Personengruppe mit Pop
+ ulationsgrösse\, Prävalenz/Inzidenz\; Motivation\; Vorgehen und Datenqu
+ ellen\; 3 wichtigste Erkenntnisse\; Bedeutung für dich als Pflegefachper
+ son.
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261203-1015-pp-52@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261203T101500
+DTEND;TZID=Europe/Zurich:20261203T114500
+SUMMARY:Prof. Pflege: PRÜFUNG: Modulabschlussprüfung Themen 1–8 (70 %
+ )
+LOCATION:SPEN-A 411\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Morgen: Prof. Pflege: PRÜFUNG: Modulabschlussprüfung Themen
+  1–8 (70 %)
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Prof. Pflege: PRÜFUNG: Modulabschlussprüfung Themen
+  1–8 (70 %)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Prof. Pflege: PRÜFUNG: Modulabschlussprüfung Themen
+  1–8 (70 %)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Prof. Pflege: PRÜFUNG: Modulabschlussprüfung Themen
+  1–8 (70 %)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261203-1315-te-53@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261203T131500
+DTEND;TZID=Europe/Zurich:20261203T150000
+SUMMARY:Englisch: Upper Intermediate: Symptoms and Signs
+LOCATION:SPEN-A 232\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Technical English 1\nArt: Seminar\nForm: Präsenz vor 
+ Ort\nTechnical Focus: Symptoms and Signs (Presentation\, Handout).\nFCE: 
+ Writing: Informal emails.
+CATEGORIES:Technical English 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261204-0815-ifs-54@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261204T081500
+DTEND;TZID=Europe/Zurich:20261204T100000
+SUMMARY:Inferenzstatistik: Wilcoxon
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Inferenzstatistik\nArt: Vorlesung\nForm: Präsenz vor 
+ Ort\nModulhandbuch noch nicht verfügbar.
+CATEGORIES:Inferenzstatistik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261204-1015-ifs-55@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261204T101500
+DTEND;TZID=Europe/Zurich:20261204T120000
+SUMMARY:Inferenzstatistik: Test unabhängige Stichproben
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Inferenzstatistik\nArt: Vorlesung\nForm: Präsenz vor 
+ Ort\nModulhandbuch noch nicht verfügbar.
+CATEGORIES:Inferenzstatistik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261204-1315-ifs-56@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261204T131500
+DTEND;TZID=Europe/Zurich:20261204T150000
+SUMMARY:Inferenzstatistik: Chi-Quadrat (online)
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Inferenzstatistik\nArt: Vorlesung\nForm: Online\nModul
+ handbuch noch nicht verfügbar.
+CATEGORIES:Inferenzstatistik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261207-1315-ka-57@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261207T131500
+DTEND;TZID=Europe/Zurich:20261207T170000
+SUMMARY:KA 1: Vertiefung und Praxistransfer
+LOCATION:SPEN-A 240 / 241 / 242 / 243 / 250 / 425\, BFH Gesundheit\, Binn
+ ingerstrasse 2\, 4142 Münchenstein
+DESCRIPTION:Modul: Klinisches Assessment 1\nArt: Skillstraining\nForm: Pr
+ äsenz vor Ort\nVorbereitung: Pflichtliteratur lesen\, Fragen a bis c\, L
+ ernkontrolle.\nPflichtliteratur: Schlögl et al. (2018)\, Die körperlich
+ e Untersuchung des «unkooperativen» älteren Patienten\, S. 1021–1029
+ \; Zweifel et al. (2016)\, Infoblatt Clinical Assessment in der Pflege.\n
+ Mitbringen: Stethoskop\, Goniometer\, Reflexhammer\, Stablampe\, Berufskl
+ eidung-Oberteil\, Handlungsanalysen.
+CATEGORIES:Klinisches Assessment 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261208-0915-gop-58@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261208T091500
+DTEND;TZID=Europe/Zurich:20261208T100000
+SUMMARY:GÖP: Moduleinführung
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Gesundheitsökonomie und Gesundheitspolitik\nArt: Einf
+ ührung\nForm: Präsenz vor Ort\nModulhandbuch noch nicht verfügbar.
+CATEGORIES:Gesundheitsökonomie und Gesundheitspolitik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261208-1015-gop-59@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261208T101500
+DTEND;TZID=Europe/Zurich:20261208T120000
+SUMMARY:GÖP: Einführung in die Gesundheitspolitik (online)
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Gesundheitsökonomie und Gesundheitspolitik\nArt: Vorl
+ esung\nForm: Online\nModulhandbuch noch nicht verfügbar.\nOnline. Ersatz
+ raum vor Ort\, falls du an der BFH bist: SPEN-A 425.
+CATEGORIES:Gesundheitsökonomie und Gesundheitspolitik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261208-1315-gop-60@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261208T131500
+DTEND;TZID=Europe/Zurich:20261208T150000
+SUMMARY:GÖP: Akteur*innen im schweizerischen Gesundheitswesen
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Gesundheitsökonomie und Gesundheitspolitik\nArt: Vorl
+ esung\nForm: Präsenz vor Ort\nModulhandbuch noch nicht verfügbar.
+CATEGORIES:Gesundheitsökonomie und Gesundheitspolitik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261208-1515-ifs-61@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261208T151500
+DTEND;TZID=Europe/Zurich:20261208T170000
+SUMMARY:Inferenzstatistik: Wilcoxon / unabhängige Stichproben / Chi-Quad
+ rat
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Inferenzstatistik\nArt: Seminar\nForm: Präsenz vor Or
+ t\nModulhandbuch noch nicht verfügbar.
+CATEGORIES:Inferenzstatistik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261208-1715-dst-62@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261208T171500
+DTEND;TZID=Europe/Zurich:20261208T180000
+SUMMARY:Statistik: Prüfungseinsicht Modulabschlussprüfung
+LOCATION:SPEN-A 256\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Deskriptive Statistik\nArt: Prüfungseinsicht\nForm: P
+ räsenz vor Ort\nNur mit Anmeldung auf Moodle. Handbuch nennt 17:00–17:
+ 45.
+CATEGORIES:Deskriptive Statistik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261217-1315-te-63@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261217T131500
+DTEND;TZID=Europe/Zurich:20261217T150000
+SUMMARY:Englisch: Upper Intermediate: Patient Centred Approach to History
+  Taking (online)
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Technical English 1\nArt: Seminar\nForm: Online\nTechn
+ ical Focus: Patient Centred Approach to History Taking\; Nurse Led Clinic
+ s (Presentation\, Handout).\nFCE: Review and Revision.
+CATEGORIES:Technical English 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261218-0815-ifs-64@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261218T081500
+DTEND;TZID=Europe/Zurich:20261218T100000
+SUMMARY:Inferenzstatistik: Korrelation
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Inferenzstatistik\nArt: Vorlesung\nForm: Präsenz vor 
+ Ort\nModulhandbuch noch nicht verfügbar.
+CATEGORIES:Inferenzstatistik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261218-1015-ifs-65@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261218T101500
+DTEND;TZID=Europe/Zurich:20261218T120000
+SUMMARY:Inferenzstatistik: Regression
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Inferenzstatistik\nArt: Vorlesung\nForm: Präsenz vor 
+ Ort\nModulhandbuch noch nicht verfügbar.
+CATEGORIES:Inferenzstatistik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261218-1315-gop-66@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261218T131500
+DTEND;TZID=Europe/Zurich:20261218T150000
+SUMMARY:GÖP: Auftrag KNW / Themen für Positionspapier
+LOCATION:SPEN-A 255 / 256 / 232\, BFH Gesundheit\, Binningerstrasse 2\, 4
+ 142 Münchenstein
+DESCRIPTION:Modul: Gesundheitsökonomie und Gesundheitspolitik\nArt: Semi
+ nar\nForm: Präsenz vor Ort\nModulhandbuch noch nicht verfügbar.
+CATEGORIES:Gesundheitsökonomie und Gesundheitspolitik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261218-1515-gop-67@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20261218T151500
+DTEND;TZID=Europe/Zurich:20261218T170000
+SUMMARY:GÖP: Sozialversicherungsrecht
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Gesundheitsökonomie und Gesundheitspolitik\nArt: Vorl
+ esung\nForm: Präsenz vor Ort\nModulhandbuch noch nicht verfügbar.
+CATEGORIES:Gesundheitsökonomie und Gesundheitspolitik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270111-1015-gop-68@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20270111T101500
+DTEND;TZID=Europe/Zurich:20270111T120000
+SUMMARY:GÖP: Krankenversicherung in der Schweiz
+LOCATION:SPEN-A 255\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Gesundheitsökonomie und Gesundheitspolitik\nArt: Vorl
+ esung\nForm: Präsenz vor Ort\nModulhandbuch noch nicht verfügbar.
+CATEGORIES:Gesundheitsökonomie und Gesundheitspolitik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270111-1315-ka-69@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20270111T131500
+DTEND;TZID=Europe/Zurich:20270111T170000
+SUMMARY:KA 1: Repetitorium
+LOCATION:SPEN-A 240 / 241 / 242 / 243 / 250 / 255\, BFH Gesundheit\, Binn
+ ingerstrasse 2\, 4142 Münchenstein
+DESCRIPTION:Modul: Klinisches Assessment 1\nArt: Skillstraining\nForm: Pr
+ äsenz vor Ort\nVorbereitung: alle bisherigen Themen und Untersuchungen w
+ iederholen\, Handlungsanalysen repetieren\, Fragen notieren.\nMitbringen:
+  alle Untersuchungsutensilien.
+CATEGORIES:Klinisches Assessment 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270112-1015-ifs-70@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20270112T101500
+DTEND;TZID=Europe/Zurich:20270112T120000
+SUMMARY:Inferenzstatistik: Korrelation / Regression
+LOCATION:SPEN-A 411\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Inferenzstatistik\nArt: Seminar\nForm: Präsenz vor Or
+ t\nModulhandbuch noch nicht verfügbar.
+CATEGORIES:Inferenzstatistik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270112-1315-gop-71@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20270112T131500
+DTEND;TZID=Europe/Zurich:20270112T150000
+SUMMARY:GÖP: Einführung Gesundheitsökonomie (online)
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Gesundheitsökonomie und Gesundheitspolitik\nArt: Vorl
+ esung\nForm: Online\nModulhandbuch noch nicht verfügbar.
+CATEGORIES:Gesundheitsökonomie und Gesundheitspolitik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270112-1515-gop-72@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20270112T151500
+DTEND;TZID=Europe/Zurich:20270112T170000
+SUMMARY:GÖP: Beratung zu Positionspapier (online)
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Gesundheitsökonomie und Gesundheitspolitik\nArt: Bera
+ tung\nForm: Online\nModulhandbuch noch nicht verfügbar.
+CATEGORIES:Gesundheitsökonomie und Gesundheitspolitik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270121-0815-gop-73@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20270121T081500
+DTEND;TZID=Europe/Zurich:20270121T120000
+SUMMARY:GÖP: Gesundheitsökonomische Evaluation
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Gesundheitsökonomie und Gesundheitspolitik\nArt: Semi
+ nar\nForm: Präsenz vor Ort\nModulhandbuch noch nicht verfügbar.
+CATEGORIES:Gesundheitsökonomie und Gesundheitspolitik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270121-1215-pp-74@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20270121T121500
+DTEND;TZID=Europe/Zurich:20270121T130000
+SUMMARY:Prof. Pflege: Prüfungseinsicht Modulabschlussprüfung
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Professionelle Pflege\nArt: Prüfungseinsicht\nForm: P
+ räsenz vor Ort\nNur mit Anmeldung auf Moodle. Keine Kopien\, keine Notiz
+ en.
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270121-1315-te-75@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20270121T131500
+DTEND;TZID=Europe/Zurich:20270121T150000
+SUMMARY:Englisch: PRÜFUNG: End of Module Examination 1 (100 %)
+LOCATION:SPEN-A 232\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Morgen: Englisch: PRÜFUNG: End of Module Examination 1 (100 
+ %)
+CATEGORIES:Technical English 1
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Englisch: PRÜFUNG: End of Module Examination 1 (100 
+ %)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Englisch: PRÜFUNG: End of Module Examination 1 (100 
+ %)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Englisch: PRÜFUNG: End of Module Examination 1 (100 
+ %)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270122-0815-ifs-76@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20270122T081500
+DTEND;TZID=Europe/Zurich:20270122T100000
+SUMMARY:Inferenzstatistik: Repetitorium
+LOCATION:SPEN-A 255 / 256\, BFH Gesundheit\, Binningerstrasse 2\, 4142 M
+ ünchenstein
+DESCRIPTION:Modul: Inferenzstatistik\nArt: Vorlesung\nForm: Präsenz vor 
+ Ort\nModulhandbuch noch nicht verfügbar.
+CATEGORIES:Inferenzstatistik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270122-1015-gop-77@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20270122T101500
+DTEND;TZID=Europe/Zurich:20270122T120000
+SUMMARY:GÖP: Beratung Positionspapier
+LOCATION:SPEN-A 255 / 256 / 232\, BFH Gesundheit\, Binningerstrasse 2\, 4
+ 142 Münchenstein
+DESCRIPTION:Modul: Gesundheitsökonomie und Gesundheitspolitik\nArt: Bera
+ tung\nForm: Präsenz vor Ort\nModulhandbuch noch nicht verfügbar.
+CATEGORIES:Gesundheitsökonomie und Gesundheitspolitik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270122-1315-gop-78@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20270122T131500
+DTEND;TZID=Europe/Zurich:20270122T170000
+SUMMARY:GÖP: Pflege- und Spitalfinanzierung / Tarifierung
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Gesundheitsökonomie und Gesundheitspolitik\nArt: Semi
+ nar\nForm: Präsenz vor Ort\nModulhandbuch noch nicht verfügbar.
+CATEGORIES:Gesundheitsökonomie und Gesundheitspolitik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270125-0815-ka-79@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20270125T081500
+DTEND;TZID=Europe/Zurich:20270125T170000
+SUMMARY:KA 1: PRÜFUNG: Skillsprüfung (30 %)
+LOCATION:SPEN-A 253 / 254 / 255\, BFH Gesundheit\, Binningerstrasse 2\, 4
+ 142 Münchenstein
+DESCRIPTION:Morgen: KA 1: PRÜFUNG: Skillsprüfung (30 %)
+CATEGORIES:Klinisches Assessment 1
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: KA 1: PRÜFUNG: Skillsprüfung (30 %)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: KA 1: PRÜFUNG: Skillsprüfung (30 %)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: KA 1: PRÜFUNG: Skillsprüfung (30 %)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270126-0815-ka-80@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20270126T081500
+DTEND;TZID=Europe/Zurich:20270126T094500
+SUMMARY:KA 1: PRÜFUNG: Modulabschlussprüfung (70 %)
+LOCATION:SPEN-A 411\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Morgen: KA 1: PRÜFUNG: Modulabschlussprüfung (70 %)
+CATEGORIES:Klinisches Assessment 1
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: KA 1: PRÜFUNG: Modulabschlussprüfung (70 %)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: KA 1: PRÜFUNG: Modulabschlussprüfung (70 %)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: KA 1: PRÜFUNG: Modulabschlussprüfung (70 %)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270126-1015-gop-81@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20270126T101500
+DTEND;TZID=Europe/Zurich:20270126T120000
+SUMMARY:GÖP: Planetary Health: Kreislaufwirtschaft
+LOCATION:SPEN-A 415\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Gesundheitsökonomie und Gesundheitspolitik\nArt: Vorl
+ esung\nForm: Präsenz vor Ort\nModulhandbuch noch nicht verfügbar.
+CATEGORIES:Gesundheitsökonomie und Gesundheitspolitik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270126-1315-gop-82@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20270126T131500
+DTEND;TZID=Europe/Zurich:20270126T150000
+SUMMARY:GÖP: Gesundheitspolitik und Pflegeinitiative (online)
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Gesundheitsökonomie und Gesundheitspolitik\nArt: Vorl
+ esung\nForm: Online\nModulhandbuch noch nicht verfügbar.\nOnline. Ersatz
+ raum vor Ort\, falls du an der BFH bist: SPEN-A 415.
+CATEGORIES:Gesundheitsökonomie und Gesundheitspolitik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270126-1515-gop-83@bfh-lektionen
+DTSTAMP:20260928T214710Z
+DTSTART;TZID=Europe/Zurich:20270126T151500
+DTEND;TZID=Europe/Zurich:20270126T170000
+SUMMARY:GÖP: Beratung zu Positionspapier
+LOCATION:SPEN-A 255 / 256 / 232\, BFH Gesundheit\, Binningerstrasse 2\, 4
+ 142 Münchenstein
+DESCRIPTION:Modul: Gesundheitsökonomie und Gesundheitspolitik\nArt: Bera
+ tung\nForm: Präsenz vor Ort\nModulhandbuch noch nicht verfügbar.
+CATEGORIES:Gesundheitsökonomie und Gesundheitspolitik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270204-0815-wu544201@bfh-lektionen
+DTSTAMP:20261010T140607Z
+DTSTART;TZID=Europe/Zurich:20270204T081500
+DTEND;TZID=Europe/Zurich:20270204T120000
+SUMMARY:GÖP: Präsentation Positionspapier
+LOCATION:SPEN-A 425 / 426 / 427\, BFH Gesundheit\, Binningerstrasse 2\, 4
+ 142 Münchenstein
+DESCRIPTION:Modul: Gesundheitsökonomie und Gesundheitspolitik\nAus WebUn
+ tis übernommen (automatisch).
+CATEGORIES:Gesundheitsökonomie und Gesundheitspolitik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270204-1315-wu552577@bfh-lektionen
+DTSTAMP:20261010T140607Z
+DTSTART;TZID=Europe/Zurich:20270204T131500
+DTEND;TZID=Europe/Zurich:20270204T150000
+SUMMARY:Englisch: Upper Intermediate
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Technical English 1\nAus WebUntis übernommen (automat
+ isch).
+CATEGORIES:Technical English 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270205-1015-wu544480@bfh-lektionen
+DTSTAMP:20261010T140607Z
+DTSTART;TZID=Europe/Zurich:20270205T101500
+DTEND;TZID=Europe/Zurich:20270205T120000
+SUMMARY:Inferenzstatistik: PRÜFUNG: Modulabschlussprüfung
+LOCATION:SPEN-A 411\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Inferenzstatistik\nAus WebUntis übernommen (automatis
+ ch).
+CATEGORIES:Inferenzstatistik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270205-1315-wu544207@bfh-lektionen
+DTSTAMP:20261010T140607Z
+DTSTART;TZID=Europe/Zurich:20270205T131500
+DTEND;TZID=Europe/Zurich:20270205T140000
+SUMMARY:GÖP: PRÜFUNG: Schriftliche Prüfung
+LOCATION:SPEN-A 411\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Gesundheitsökonomie und Gesundheitspolitik\nAus WebUn
+ tis übernommen (automatisch).
+CATEGORIES:Gesundheitsökonomie und Gesundheitspolitik
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
