@@ -118,18 +118,27 @@ DESCRIPTION:Morgen 08:00 fällig: Übung 1: Grundbegriffe und Lagemasse
 CATEGORIES:Deskriptive Statistik
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen 08:00 fällig: Übung 1: Grundbegriffe und Lagemasse
-TRIGGER:-PT13H30M
+DESCRIPTION:In 7 Tagen: Statistik ABGABE: Übung 1: Grundbegriffe und Lag
+ emasse
+TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen 08:00 fällig: Übung 1: Grundbegriffe und Lagemasse
-TRIGGER:-PT13H30M
+DESCRIPTION:In 4 Tagen: Statistik ABGABE: Übung 1: Grundbegriffe und Lag
+ emasse
+TRIGGER:-P4D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen 08:00 fällig: Übung 1: Grundbegriffe und Lagemasse
-TRIGGER:-PT13H30M
+DESCRIPTION:In 2 Tagen: Statistik ABGABE: Übung 1: Grundbegriffe und Lag
+ emasse
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Statistik ABGABE: Übung 1: Grundbegriffe und Lagemas
+ se
+TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -144,21 +153,27 @@ DESCRIPTION:Morgen 08:00 fällig: Übung 2: Streuungsmasse und Darstellun
 CATEGORIES:Deskriptive Statistik
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen 08:00 fällig: Übung 2: Streuungsmasse und Darstellun
- gen
-TRIGGER:-PT13H30M
+DESCRIPTION:In 7 Tagen: Statistik ABGABE: Übung 2: Streuungsmasse und Da
+ rstellungen
+TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen 08:00 fällig: Übung 2: Streuungsmasse und Darstellun
- gen
-TRIGGER:-PT13H30M
+DESCRIPTION:In 4 Tagen: Statistik ABGABE: Übung 2: Streuungsmasse und Da
+ rstellungen
+TRIGGER:-P4D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen 08:00 fällig: Übung 2: Streuungsmasse und Darstellun
- gen
-TRIGGER:-PT13H30M
+DESCRIPTION:In 2 Tagen: Statistik ABGABE: Übung 2: Streuungsmasse und Da
+ rstellungen
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Statistik ABGABE: Übung 2: Streuungsmasse und Darste
+ llungen
+TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -381,18 +396,23 @@ DESCRIPTION:Morgen 08:00 fällig: Übung 3: Epidemiologie
 CATEGORIES:Deskriptive Statistik
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen 08:00 fällig: Übung 3: Epidemiologie
-TRIGGER:-PT13H30M
+DESCRIPTION:In 7 Tagen: Statistik ABGABE: Übung 3: Epidemiologie
+TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen 08:00 fällig: Übung 3: Epidemiologie
-TRIGGER:-PT13H30M
+DESCRIPTION:In 4 Tagen: Statistik ABGABE: Übung 3: Epidemiologie
+TRIGGER:-P4D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen 08:00 fällig: Übung 3: Epidemiologie
-TRIGGER:-PT13H30M
+DESCRIPTION:In 2 Tagen: Statistik ABGABE: Übung 3: Epidemiologie
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Statistik ABGABE: Übung 3: Epidemiologie
+TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -406,18 +426,23 @@ DESCRIPTION:Morgen 08:00 fällig: Übung 4: Normalverteilung
 CATEGORIES:Deskriptive Statistik
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen 08:00 fällig: Übung 4: Normalverteilung
-TRIGGER:-PT13H30M
+DESCRIPTION:In 7 Tagen: Statistik ABGABE: Übung 4: Normalverteilung
+TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen 08:00 fällig: Übung 4: Normalverteilung
-TRIGGER:-PT13H30M
+DESCRIPTION:In 4 Tagen: Statistik ABGABE: Übung 4: Normalverteilung
+TRIGGER:-P4D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen 08:00 fällig: Übung 4: Normalverteilung
-TRIGGER:-PT13H30M
+DESCRIPTION:In 2 Tagen: Statistik ABGABE: Übung 4: Normalverteilung
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Statistik ABGABE: Übung 4: Normalverteilung
+TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -527,15 +552,21 @@ CATEGORIES:Professionelle Pflege
 TRANSP:OPAQUE
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen: Prof. Pflege: PRÜFUNG: Schriftliche Prüfung Themen 
- 1–4 (30 %)
-TRIGGER:-P1D
+DESCRIPTION:In 14 Tagen: Prof. Pflege: PRÜFUNG: Schriftliche Prüfung Th
+ emen 1–4 (30 %)
+TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen: Prof. Pflege: PRÜFUNG: Schriftliche Prüfung Themen 
- 1–4 (30 %)
-TRIGGER:-P1D
+DESCRIPTION:In 7 Tagen: Prof. Pflege: PRÜFUNG: Schriftliche Prüfung The
+ men 1–4 (30 %)
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 2 Tagen: Prof. Pflege: PRÜFUNG: Schriftliche Prüfung The
+ men 1–4 (30 %)
+TRIGGER:-P2D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -616,18 +647,23 @@ DESCRIPTION:Morgen 08:00 fällig: Übung 5: Binomialverteilung
 CATEGORIES:Deskriptive Statistik
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen 08:00 fällig: Übung 5: Binomialverteilung
-TRIGGER:-PT13H30M
+DESCRIPTION:In 7 Tagen: Statistik ABGABE: Übung 5: Binomialverteilung
+TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen 08:00 fällig: Übung 5: Binomialverteilung
-TRIGGER:-PT13H30M
+DESCRIPTION:In 4 Tagen: Statistik ABGABE: Übung 5: Binomialverteilung
+TRIGGER:-P4D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen 08:00 fällig: Übung 5: Binomialverteilung
-TRIGGER:-PT13H30M
+DESCRIPTION:In 2 Tagen: Statistik ABGABE: Übung 5: Binomialverteilung
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Statistik ABGABE: Übung 5: Binomialverteilung
+TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -687,13 +723,21 @@ CATEGORIES:Deskriptive Statistik
 TRANSP:OPAQUE
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen: Statistik: PRÜFUNG: Modulabschlussprüfung (70 %)
-TRIGGER:-P1D
+DESCRIPTION:In 14 Tagen: Statistik: PRÜFUNG: Modulabschlussprüfung (70 
+ %)
+TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen: Statistik: PRÜFUNG: Modulabschlussprüfung (70 %)
-TRIGGER:-P1D
+DESCRIPTION:In 7 Tagen: Statistik: PRÜFUNG: Modulabschlussprüfung (70 %
+ )
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 2 Tagen: Statistik: PRÜFUNG: Modulabschlussprüfung (70 %
+ )
+TRIGGER:-P2D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -881,6 +925,17 @@ DESCRIPTION:Modul: Professionelle Pflege\nArt: Prüfungseinsicht\nForm: P
  en.
 CATEGORIES:Professionelle Pflege
 TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 7 Tagen: Prof. Pflege: Prüfungseinsicht schriftliche Prü
+ fung
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Prof. Pflege: Prüfungseinsicht schriftliche Prüfung
+TRIGGER:-P1D
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20261119-1515-te-45@bfh-lektionen
@@ -1004,15 +1059,21 @@ CATEGORIES:Professionelle Pflege
 TRANSP:OPAQUE
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen: Prof. Pflege: PRÜFUNG: Modulabschlussprüfung Themen
-  1–8 (70 %)
-TRIGGER:-P1D
+DESCRIPTION:In 14 Tagen: Prof. Pflege: PRÜFUNG: Modulabschlussprüfung T
+ hemen 1–8 (70 %)
+TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen: Prof. Pflege: PRÜFUNG: Modulabschlussprüfung Themen
-  1–8 (70 %)
-TRIGGER:-P1D
+DESCRIPTION:In 7 Tagen: Prof. Pflege: PRÜFUNG: Modulabschlussprüfung Th
+ emen 1–8 (70 %)
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 2 Tagen: Prof. Pflege: PRÜFUNG: Modulabschlussprüfung Th
+ emen 1–8 (70 %)
+TRIGGER:-P2D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1157,6 +1218,17 @@ DESCRIPTION:Modul: Deskriptive Statistik\nArt: Prüfungseinsicht\nForm: P
  45.
 CATEGORIES:Deskriptive Statistik
 TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 7 Tagen: Statistik: Prüfungseinsicht Modulabschlussprüfu
+ ng
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Statistik: Prüfungseinsicht Modulabschlussprüfung
+TRIGGER:-P1D
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20261217-1315-te-63@bfh-lektionen
@@ -1315,6 +1387,18 @@ DESCRIPTION:Modul: Professionelle Pflege\nArt: Prüfungseinsicht\nForm: P
  en.
 CATEGORIES:Professionelle Pflege
 TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 7 Tagen: Prof. Pflege: Prüfungseinsicht Modulabschlusspr
+ üfung
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Prof. Pflege: Prüfungseinsicht Modulabschlussprüfun
+ g
+TRIGGER:-P1D
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20270121-1315-te-75@bfh-lektionen
@@ -1330,15 +1414,21 @@ CATEGORIES:Technical English 1
 TRANSP:OPAQUE
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen: Englisch: PRÜFUNG: End of Module Examination 1 (100 
- %)
-TRIGGER:-P1D
+DESCRIPTION:In 14 Tagen: Englisch: PRÜFUNG: End of Module Examination 1 
+ (100 %)
+TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen: Englisch: PRÜFUNG: End of Module Examination 1 (100 
- %)
-TRIGGER:-P1D
+DESCRIPTION:In 7 Tagen: Englisch: PRÜFUNG: End of Module Examination 1 (
+ 100 %)
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 2 Tagen: Englisch: PRÜFUNG: End of Module Examination 1 (
+ 100 %)
+TRIGGER:-P2D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1399,13 +1489,18 @@ CATEGORIES:Klinisches Assessment 1
 TRANSP:OPAQUE
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen: KA 1: PRÜFUNG: Skillsprüfung (30 %)
-TRIGGER:-P1D
+DESCRIPTION:In 14 Tagen: KA 1: PRÜFUNG: Skillsprüfung (30 %)
+TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen: KA 1: PRÜFUNG: Skillsprüfung (30 %)
-TRIGGER:-P1D
+DESCRIPTION:In 7 Tagen: KA 1: PRÜFUNG: Skillsprüfung (30 %)
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 2 Tagen: KA 1: PRÜFUNG: Skillsprüfung (30 %)
+TRIGGER:-P2D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1426,13 +1521,18 @@ CATEGORIES:Klinisches Assessment 1
 TRANSP:OPAQUE
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen: KA 1: PRÜFUNG: Modulabschlussprüfung (70 %)
-TRIGGER:-P1D
+DESCRIPTION:In 14 Tagen: KA 1: PRÜFUNG: Modulabschlussprüfung (70 %)
+TRIGGER:-P14D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen: KA 1: PRÜFUNG: Modulabschlussprüfung (70 %)
-TRIGGER:-P1D
+DESCRIPTION:In 7 Tagen: KA 1: PRÜFUNG: Modulabschlussprüfung (70 %)
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 2 Tagen: KA 1: PRÜFUNG: Modulabschlussprüfung (70 %)
+TRIGGER:-P2D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1517,6 +1617,29 @@ DESCRIPTION:Modul: Inferenzstatistik\nAus WebUntis übernommen (automatis
  ch).
 CATEGORIES:Inferenzstatistik
 TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 14 Tagen: Inferenzstatistik: PRÜFUNG: Modulabschlussprüf
+ ung
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 7 Tagen: Inferenzstatistik: PRÜFUNG: Modulabschlussprüfu
+ ng
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 2 Tagen: Inferenzstatistik: PRÜFUNG: Modulabschlussprüfu
+ ng
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Inferenzstatistik: PRÜFUNG: Modulabschlussprüfung
+TRIGGER:-P1D
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20270205-1315-wu544207@bfh-lektionen
@@ -1530,5 +1653,25 @@ DESCRIPTION:Modul: Gesundheitsökonomie und Gesundheitspolitik\nAus WebUn
  tis übernommen (automatisch).
 CATEGORIES:Gesundheitsökonomie und Gesundheitspolitik
 TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 14 Tagen: GÖP: PRÜFUNG: Schriftliche Prüfung
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 7 Tagen: GÖP: PRÜFUNG: Schriftliche Prüfung
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 2 Tagen: GÖP: PRÜFUNG: Schriftliche Prüfung
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: GÖP: PRÜFUNG: Schriftliche Prüfung
+TRIGGER:-P1D
+END:VALARM
 END:VEVENT
 END:VCALENDAR

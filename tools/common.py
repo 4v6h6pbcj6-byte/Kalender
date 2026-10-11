@@ -52,8 +52,11 @@ def parse_ics(t):
     evs=[]
     for b in blocks:
         b=b.replace('\n ','')
-        f={};order=[]
+        f={};order=[];inalarm=False
         for l in b.strip('\n').split('\n'):
+            if l.startswith('BEGIN:VALARM'): inalarm=True; continue
+            if l.startswith('END:VALARM'): inalarm=False; continue
+            if inalarm: continue  # Erinnerungen werden beim Schreiben neu erzeugt
             k,_,v=l.partition(':'); f[k]=v; order.append(k)
         evs.append(dict(fields=f,order=order))
     return head,evs
@@ -70,12 +73,26 @@ def fold(line):
         out.append(b[:cut]); b=b[cut:]
     out.append(b)
     return '\r\n '.join(x.decode('utf-8') for x in out)
+# Erinnerungen: Tage vor Beginn, je nach Art des Termins
+ALARM_TAGE=[('ABGABE',[7,4,2,1]),('PRÜFUNG',[14,7,2,1]),('Prüfungseinsicht',[7,1])]
+def alarms_for(ev):
+    s=next((v for k,v in ev['fields'].items() if k.split(';')[0]=='SUMMARY'),'')
+    if s.startswith('ENTFÄLLT'): return []
+    for wort,tage in ALARM_TAGE:
+        if wort in s:
+            out=[]
+            for t in tage:
+                txt='Morgen' if t==1 else f'In {t} Tagen'
+                out+=['BEGIN:VALARM','ACTION:DISPLAY',f'DESCRIPTION:{txt}: '+s,f'TRIGGER:-P{t}D','END:VALARM']
+            return out
+    return []
 def write_ics(head,evs,calname):
     head=re.sub(r'X-WR-CALNAME:.*',f'X-WR-CALNAME:{calname}',head.replace('\r\n','\n'))
     lines=[l for l in head.strip('\n').split('\n')]
     for ev in evs:
         lines.append('BEGIN:VEVENT')
         for k in ev['order']: lines.append(f"{k}:{ev['fields'][k]}")
+        lines+=alarms_for(ev)
         lines.append('END:VEVENT')
     lines.append('END:VCALENDAR')
     return '\r\n'.join(fold(l) for l in lines)+'\r\n'
