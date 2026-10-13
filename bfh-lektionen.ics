@@ -475,11 +475,12 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20261023-1215-wu564262@bfh-lektionen
-DTSTAMP:20261010T141236Z
+DTSTAMP:20261013T034612Z
 DTSTART;TZID=Europe/Zurich:20261023T121500
 DTEND;TZID=Europe/Zurich:20261023T130000
 SUMMARY:Studienbegleitung: Mentor-Meeting Lehrperson 29
-LOCATION:Ort noch offen (siehe WebUntis)
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
 DESCRIPTION:Modul: Studienbegleitung\nAus WebUntis übernommen (automatis
  ch).
 CATEGORIES:Studienbegleitung

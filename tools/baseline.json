@@ -1483,7 +1483,9 @@
 "cancelled": [],
 "start": "1215",
 "end": "1300",
-"rooms": [],
+"rooms": [
+"SPEN-A 425"
+],
 "lessonIds": [
 564262
 ]
