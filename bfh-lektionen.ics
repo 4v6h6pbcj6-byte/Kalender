@@ -447,15 +447,27 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20261023-0815-dst-19@bfh-lektionen
-DTSTAMP:20260928T214710Z
+DTSTAMP:20261023T034623Z
 DTSTART;TZID=Europe/Zurich:20261023T081500
 DTEND;TZID=Europe/Zurich:20261023T100000
-SUMMARY:Statistik: Binomialverteilung
+SUMMARY:ENTFÄLLT: Statistik: Binomialverteilung
 LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
  stein
 DESCRIPTION:Modul: Deskriptive Statistik\nArt: Vorlesung\nForm: Präsenz 
  vor Ort\nThema 5. Weiterführende Literatur: Müller (2019)\, S. 81–84.
  \nHeute 08:00 fällig: Übung 3 und Übung 4 auf Moodle.
+CATEGORIES:Deskriptive Statistik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261023-0815-wu564287@bfh-lektionen
+DTSTAMP:20261023T034623Z
+DTSTART;TZID=Europe/Zurich:20261023T081500
+DTEND;TZID=Europe/Zurich:20261023T100000
+SUMMARY:Statistik: VL: Binomialverteilung
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Deskriptive Statistik\nAus WebUntis übernommen (autom
+ atisch).
 CATEGORIES:Deskriptive Statistik
 TRANSP:OPAQUE
 END:VEVENT
@@ -873,12 +885,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20261110-1515-ifs-41@bfh-lektionen
-DTSTAMP:20260928T214710Z
+DTSTAMP:20261023T034623Z
 DTSTART;TZID=Europe/Zurich:20261110T151500
 DTEND;TZID=Europe/Zurich:20261110T170000
 SUMMARY:Inferenzstatistik: Moduleinführung\; Vertrauensintervall
-LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
- stein
+LOCATION:Online (Link auf Moodle / MS Teams)
 DESCRIPTION:Modul: Inferenzstatistik\nArt: Vorlesung\nForm: Präsenz vor 
  Ort\nModulhandbuch noch nicht verfügbar.
 CATEGORIES:Inferenzstatistik
@@ -955,10 +966,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20261120-0815-ifs-46@bfh-lektionen
-DTSTAMP:20260928T214710Z
+DTSTAMP:20261023T034623Z
 DTSTART;TZID=Europe/Zurich:20261120T081500
 DTEND;TZID=Europe/Zurich:20261120T100000
-SUMMARY:Inferenzstatistik: z-Test
+SUMMARY:ENTFÄLLT: Inferenzstatistik: z-Test
 LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
  stein
 DESCRIPTION:Modul: Inferenzstatistik\nArt: Vorlesung\nForm: Präsenz vor 
@@ -967,15 +978,39 @@ CATEGORIES:Inferenzstatistik
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:bb26-20261120-0815-wu564309@bfh-lektionen
+DTSTAMP:20261023T034623Z
+DTSTART;TZID=Europe/Zurich:20261120T081500
+DTEND;TZID=Europe/Zurich:20261120T100000
+SUMMARY:Inferenzstatistik: VL: z-Test
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Inferenzstatistik\nAus WebUntis übernommen (automatis
+ ch).
+CATEGORIES:Inferenzstatistik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:bb26-20261120-1015-ifs-47@bfh-lektionen
-DTSTAMP:20260928T214710Z
+DTSTAMP:20261023T034623Z
 DTSTART;TZID=Europe/Zurich:20261120T101500
 DTEND;TZID=Europe/Zurich:20261120T120000
-SUMMARY:Inferenzstatistik: t-Test
+SUMMARY:ENTFÄLLT: Inferenzstatistik: t-Test
 LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
  stein
 DESCRIPTION:Modul: Inferenzstatistik\nArt: Vorlesung\nForm: Präsenz vor 
  Ort\nModulhandbuch noch nicht verfügbar.
+CATEGORIES:Inferenzstatistik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261120-1015-wu564312@bfh-lektionen
+DTSTAMP:20261023T034623Z
+DTSTART;TZID=Europe/Zurich:20261120T101500
+DTEND;TZID=Europe/Zurich:20261120T120000
+SUMMARY:Inferenzstatistik: VL: t-Test
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Inferenzstatistik\nAus WebUntis übernommen (automatis
+ ch).
 CATEGORIES:Inferenzstatistik
 TRANSP:OPAQUE
 END:VEVENT
@@ -1099,12 +1134,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20261204-0815-ifs-54@bfh-lektionen
-DTSTAMP:20260928T214710Z
+DTSTAMP:20261023T034623Z
 DTSTART;TZID=Europe/Zurich:20261204T081500
 DTEND;TZID=Europe/Zurich:20261204T100000
 SUMMARY:Inferenzstatistik: Wilcoxon
-LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
- stein
+LOCATION:Online (Link auf Moodle / MS Teams)
 DESCRIPTION:Modul: Inferenzstatistik\nArt: Vorlesung\nForm: Präsenz vor 
  Ort\nModulhandbuch noch nicht verfügbar.
 CATEGORIES:Inferenzstatistik
@@ -1112,12 +1146,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20261204-1015-ifs-55@bfh-lektionen
-DTSTAMP:20260928T214710Z
+DTSTAMP:20261023T034623Z
 DTSTART;TZID=Europe/Zurich:20261204T101500
 DTEND;TZID=Europe/Zurich:20261204T120000
 SUMMARY:Inferenzstatistik: Test unabhängige Stichproben
-LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
- stein
+LOCATION:Online (Link auf Moodle / MS Teams)
 DESCRIPTION:Modul: Inferenzstatistik\nArt: Vorlesung\nForm: Präsenz vor 
  Ort\nModulhandbuch noch nicht verfügbar.
 CATEGORIES:Inferenzstatistik
@@ -1247,12 +1280,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20261218-0815-ifs-64@bfh-lektionen
-DTSTAMP:20260928T214710Z
+DTSTAMP:20261023T034623Z
 DTSTART;TZID=Europe/Zurich:20261218T081500
 DTEND;TZID=Europe/Zurich:20261218T100000
 SUMMARY:Inferenzstatistik: Korrelation
-LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
- stein
+LOCATION:Online (Link auf Moodle / MS Teams)
 DESCRIPTION:Modul: Inferenzstatistik\nArt: Vorlesung\nForm: Präsenz vor 
  Ort\nModulhandbuch noch nicht verfügbar.
 CATEGORIES:Inferenzstatistik
@@ -1260,12 +1292,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20261218-1015-ifs-65@bfh-lektionen
-DTSTAMP:20260928T214710Z
+DTSTAMP:20261023T034623Z
 DTSTART;TZID=Europe/Zurich:20261218T101500
 DTEND;TZID=Europe/Zurich:20261218T120000
 SUMMARY:Inferenzstatistik: Regression
-LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
- stein
+LOCATION:Online (Link auf Moodle / MS Teams)
 DESCRIPTION:Modul: Inferenzstatistik\nArt: Vorlesung\nForm: Präsenz vor 
  Ort\nModulhandbuch noch nicht verfügbar.
 CATEGORIES:Inferenzstatistik

@@ -276,14 +276,15 @@
 1460891,
 1460894
 ],
-"cancelled": [],
-"start": "0815",
-"end": "1000",
-"rooms": [
-"SPEN-A 425"
+"cancelled": [
+1460891,
+1460894
 ],
+"start": null,
+"end": null,
+"rooms": [],
 "lessonIds": [
-543823
+null
 ]
 },
 "bb26-20261023-1015-dst-20@bfh-lektionen": {
@@ -652,7 +653,7 @@
 "start": "1515",
 "end": "1700",
 "rooms": [
-"SPEN-A 425"
+"Online-G-G"
 ],
 "lessonIds": [
 544447
@@ -726,14 +727,15 @@
 1462290,
 1462293
 ],
-"cancelled": [],
-"start": "0815",
-"end": "1000",
-"rooms": [
-"SPEN-A 425"
+"cancelled": [
+1462290,
+1462293
 ],
+"start": null,
+"end": null,
+"rooms": [],
 "lessonIds": [
-544450
+null
 ]
 },
 "bb26-20261120-1015-ifs-47@bfh-lektionen": {
@@ -741,14 +743,15 @@
 1462296,
 1462299
 ],
-"cancelled": [],
-"start": "1015",
-"end": "1200",
-"rooms": [
-"SPEN-A 425"
+"cancelled": [
+1462296,
+1462299
 ],
+"start": null,
+"end": null,
+"rooms": [],
 "lessonIds": [
-544453
+null
 ]
 },
 "bb26-20261120-1315-pp-48@bfh-lektionen": {
@@ -883,7 +886,7 @@
 "start": "0815",
 "end": "1000",
 "rooms": [
-"SPEN-A 425"
+"Online-G-G"
 ],
 "lessonIds": [
 544459
@@ -898,7 +901,7 @@
 "start": "1015",
 "end": "1200",
 "rooms": [
-"SPEN-A 425"
+"Online-G-G"
 ],
 "lessonIds": [
 544462
@@ -1043,7 +1046,7 @@
 "start": "0815",
 "end": "1000",
 "rooms": [
-"SPEN-A 425"
+"Online-G-G"
 ],
 "lessonIds": [
 544468
@@ -1058,7 +1061,7 @@
 "start": "1015",
 "end": "1200",
 "rooms": [
-"SPEN-A 425"
+"Online-G-G"
 ],
 "lessonIds": [
 544471
@@ -1489,6 +1492,51 @@
 "lessonIds": [
 564262
 ]
+},
+"bb26-20261023-0815-wu564287@bfh-lektionen": {
+"ids": [
+1515649,
+1515652
+],
+"cancelled": [],
+"start": "0815",
+"end": "1000",
+"rooms": [
+"Online-G-G"
+],
+"lessonIds": [
+564287
+]
+},
+"bb26-20261120-1015-wu564312@bfh-lektionen": {
+"ids": [
+1515740,
+1515743
+],
+"cancelled": [],
+"start": "1015",
+"end": "1200",
+"rooms": [
+"Online-G-G"
+],
+"lessonIds": [
+564312
+]
+},
+"bb26-20261120-0815-wu564309@bfh-lektionen": {
+"ids": [
+1515734,
+1515737
+],
+"cancelled": [],
+"start": "0815",
+"end": "1000",
+"rooms": [
+"Online-G-G"
+],
+"lessonIds": [
+564309
+]
 }
 },
 "known": [
@@ -1772,7 +1820,13 @@
 1495817,
 1495820,
 1509832,
-1513410
+1513410,
+1515649,
+1515652,
+1515734,
+1515737,
+1515740,
+1515743
 ],
 "mine": [
 543670,
