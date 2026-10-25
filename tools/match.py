@@ -1,6 +1,6 @@
 import re
 from common import *
-OTHER_RE=re.compile(r'Gr\. ?1\b|Advanced',re.I)
+OTHER_RE=re.compile(r'Gr\. ?1\b|Advanced|Beratung Modulabschluss',re.I)
 MENTOR=3974  # WebUntis-Kennung der eigenen Mentorin (Zahl statt Name)
 class _Other:
     def search(self,p):

@@ -7,10 +7,10 @@ from match import *
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ICS=os.path.join(ROOT,'bfh-lektionen.ics'); BASE=os.path.join(ROOT,'tools','baseline.json')
 CAL='Lektionen'
-IGNORE_SUBJ={'DiLe','PA1','BEH'}   # Distance-Learning-Duplikate, Mentoring, Praxis A1 (erlassen), Folgesemester
-END=datetime.date(2027,2,14)                  # Ende HS26
-SUBJNAME={'SBG_MTR':'Studienbegleitung','PRO':'Prof. Pflege','KA1':'KA 1','DST':'Statistik','IFS':'Inferenzstatistik','GÖP':'GÖP','TE1':'Englisch','BSC_PFL':'BFH'}
-CATNAME={'SBG_MTR':'Studienbegleitung','PRO':'Professionelle Pflege','KA1':'Klinisches Assessment 1','DST':'Deskriptive Statistik','IFS':'Inferenzstatistik','GÖP':'Gesundheitsökonomie und Gesundheitspolitik','TE1':'Technical English 1','BSC_PFL':'BFH'}
+IGNORE_SUBJ={'DiLe','PA1'}   # Distance-Learning-Duplikate, Praxis A1 (erlassen)
+END=datetime.date(2027,7,31)                  # Ende FS27 (1. Studienjahr)
+SUBJNAME={'SBG_MTR':'Studienbegleitung','PRO':'Prof. Pflege','KA1':'KA 1','DST':'Statistik','IFS':'Inferenzstatistik','GÖP':'GÖP','TE1':'Englisch','TE2':'Englisch','KA2':'KA 2','BWF':'Forschung','SPE':'Syst. Pflege','BEH':'Beratung/eHealth','BSC_PFL':'BFH'}
+CATNAME={'SBG_MTR':'Studienbegleitung','PRO':'Professionelle Pflege','KA1':'Klinisches Assessment 1','DST':'Deskriptive Statistik','IFS':'Inferenzstatistik','GÖP':'Gesundheitsökonomie und Gesundheitspolitik','TE1':'Technical English 1','TE2':'Technical English 2','KA2':'Klinisches Assessment 2','BWF':'Basiswissen Forschung','SPE':'Systemische Pflege und Ethik','BEH':'Beratung und eHealth','BSC_PFL':'BFH'}
 ADDR='BFH Gesundheit\\, Binningerstrasse 2\\, 4142 Münchenstein'
 ONLINE='Online (Link auf Moodle / MS Teams)'
 def hm(s): return int(s[:2])*60+int(s[2:])

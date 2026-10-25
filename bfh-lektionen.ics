@@ -1706,4 +1706,1323 @@ DESCRIPTION:Morgen: GÖP: PRÜFUNG: Schriftliche Prüfung
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270222-0815-wu559333@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270222T081500
+DTEND;TZID=Europe/Zurich:20270222T090000
+SUMMARY:Beratung/eHealth: Moduleinführung
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Beratung und eHealth\nAus WebUntis übernommen (automa
+ tisch).
+CATEGORIES:Beratung und eHealth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270222-0915-wu559414@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270222T091500
+DTEND;TZID=Europe/Zurich:20270222T100000
+SUMMARY:Beratung/eHealth: BSS 1: Telemedizin (Selbststudium)
+LOCATION:Ort noch offen (siehe WebUntis)
+DESCRIPTION:Modul: Beratung und eHealth\nAus WebUntis übernommen (automa
+ tisch).
+CATEGORIES:Beratung und eHealth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270222-1015-wu559357@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270222T101500
+DTEND;TZID=Europe/Zurich:20270222T120000
+SUMMARY:Beratung/eHealth: BSS 3: Auftrag zu DigitaleTechnologien (Selbsts
+ tudium)
+LOCATION:Ort noch offen (siehe WebUntis)
+DESCRIPTION:Modul: Beratung und eHealth\nAus WebUntis übernommen (automa
+ tisch).
+CATEGORIES:Beratung und eHealth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270222-1315-wu559348@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270222T131500
+DTEND;TZID=Europe/Zurich:20270222T140000
+SUMMARY:Beratung/eHealth: BSS 2: mHealth Grundlagen/Qualitätsprüfung Me
+ dizin- und Gesundheitsapps (Selbststudium)
+LOCATION:Ort noch offen (siehe WebUntis)
+DESCRIPTION:Modul: Beratung und eHealth\nAus WebUntis übernommen (automa
+ tisch).
+CATEGORIES:Beratung und eHealth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270223-0815-wu559351@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270223T081500
+DTEND;TZID=Europe/Zurich:20270223T090000
+SUMMARY:Beratung/eHealth: Einführung KNW
+LOCATION:SPEN-A 413\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Beratung und eHealth\nAus WebUntis übernommen (automa
+ tisch).
+CATEGORIES:Beratung und eHealth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270223-0915-wu559339@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270223T091500
+DTEND;TZID=Europe/Zurich:20270223T110000
+SUMMARY:Beratung/eHealth: VL: eHealth Schweiz
+LOCATION:SPEN-A 413\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Beratung und eHealth\nAus WebUntis übernommen (automa
+ tisch).
+CATEGORIES:Beratung und eHealth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270223-1115-wu559342@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270223T111500
+DTEND;TZID=Europe/Zurich:20270223T120000
+SUMMARY:Beratung/eHealth: VL: Elektronisches Patient*innendossier & Daten
+ schutz
+LOCATION:SPEN-A 413\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Beratung und eHealth\nAus WebUntis übernommen (automa
+ tisch).
+CATEGORIES:Beratung und eHealth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270223-1315-wu559354@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270223T131500
+DTEND;TZID=Europe/Zurich:20270223T150000
+SUMMARY:Beratung/eHealth: VL: Digitale Technologien im Pflegealltag
+LOCATION:SPEN-A 413\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Beratung und eHealth\nAus WebUntis übernommen (automa
+ tisch).
+CATEGORIES:Beratung und eHealth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270223-1515-wu559345@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270223T151500
+DTEND;TZID=Europe/Zurich:20270223T170000
+SUMMARY:Beratung/eHealth: VL: Digitale Transformation im Gesundheitswesen
+LOCATION:SPEN-A 413\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Beratung und eHealth\nAus WebUntis übernommen (automa
+ tisch).
+CATEGORIES:Beratung und eHealth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270304-1015-wu559360@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270304T101500
+DTEND;TZID=Europe/Zurich:20270304T120000
+SUMMARY:Beratung/eHealth: SEM: Digitale Technologien
+LOCATION:SPEN-A 255 / 256\, BFH Gesundheit\, Binningerstrasse 2\, 4142 M
+ ünchenstein
+DESCRIPTION:Modul: Beratung und eHealth\nAus WebUntis übernommen (automa
+ tisch).
+CATEGORIES:Beratung und eHealth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270304-1315-wu545563@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270304T131500
+DTEND;TZID=Europe/Zurich:20270304T150000
+SUMMARY:KA 2: VL: Pathologie / Pathophysiologie 1
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Klinisches Assessment 2\nAus WebUntis übernommen (aut
+ omatisch).
+CATEGORIES:Klinisches Assessment 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270304-1515-wu552778@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270304T151500
+DTEND;TZID=Europe/Zurich:20270304T170000
+SUMMARY:Englisch: SEM: Upper Intermediate Level
+LOCATION:SPEN-A 255\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Technical English 2\nAus WebUntis übernommen (automat
+ isch).
+CATEGORIES:Technical English 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270305-0815-wu543547@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270305T081500
+DTEND;TZID=Europe/Zurich:20270305T100000
+SUMMARY:Forschung: VL: Einführung in Wissenschaft / Forschung
+LOCATION:SPEN-A 412 / 413\, BFH Gesundheit\, Binningerstrasse 2\, 4142 M
+ ünchenstein
+DESCRIPTION:Modul: Basiswissen Forschung\nAus WebUntis übernommen (autom
+ atisch).
+CATEGORIES:Basiswissen Forschung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270305-1015-wu543550@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270305T101500
+DTEND;TZID=Europe/Zurich:20270305T120000
+SUMMARY:Forschung: VL: Einführung Pflegeforschung
+LOCATION:SPEN-A 412\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Basiswissen Forschung\nAus WebUntis übernommen (autom
+ atisch).
+CATEGORIES:Basiswissen Forschung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270305-1315-wu559417@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270305T131500
+DTEND;TZID=Europe/Zurich:20270305T150000
+SUMMARY:Beratung/eHealth: VL: User Experience
+LOCATION:SPEN-A 412\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Beratung und eHealth\nAus WebUntis übernommen (automa
+ tisch).
+CATEGORIES:Beratung und eHealth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270305-1515-wu559426@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270305T151500
+DTEND;TZID=Europe/Zurich:20270305T160000
+SUMMARY:Beratung/eHealth: VL: Digitale Ethik
+LOCATION:SPEN-A 412\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Beratung und eHealth\nAus WebUntis übernommen (automa
+ tisch).
+CATEGORIES:Beratung und eHealth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270308-0815-wu545566@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270308T081500
+DTEND;TZID=Europe/Zurich:20270308T120000
+SUMMARY:KA 2: SKT: Haut- und Lymphknoten
+LOCATION:SPEN-A 240 / 241 / 242 / 243 / 250 / 255\, BFH Gesundheit\, Binn
+ ingerstrasse 2\, 4142 Münchenstein
+DESCRIPTION:Modul: Klinisches Assessment 2\nAus WebUntis übernommen (aut
+ omatisch).
+CATEGORIES:Klinisches Assessment 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270308-1315-wu559372@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270308T131500
+DTEND;TZID=Europe/Zurich:20270308T150000
+SUMMARY:Beratung/eHealth: VL: Digitale Gesundheitskompetenz
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Beratung und eHealth\nAus WebUntis übernommen (automa
+ tisch).
+CATEGORIES:Beratung und eHealth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270308-1515-wu559369@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270308T151500
+DTEND;TZID=Europe/Zurich:20270308T170000
+SUMMARY:Beratung/eHealth: SEM: Grundlagen Onlineberatung
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Beratung und eHealth\nAus WebUntis übernommen (automa
+ tisch).
+CATEGORIES:Beratung und eHealth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270308-1715-wu560168@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270308T171500
+DTEND;TZID=Europe/Zurich:20270308T180000
+SUMMARY:BFH: allgemeine Prüfungseinsicht
+LOCATION:SPEN-A 255\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: BFH\nAus WebUntis übernommen (automatisch).
+CATEGORIES:BFH
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 7 Tagen: BFH: allgemeine Prüfungseinsicht
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: BFH: allgemeine Prüfungseinsicht
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270309-0815-wu559366@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270309T081500
+DTEND;TZID=Europe/Zurich:20270309T120000
+SUMMARY:Beratung/eHealth: BSS 4: Beratung im Praxisalltag
+LOCATION:Ort noch offen (siehe WebUntis)
+DESCRIPTION:Modul: Beratung und eHealth\nAus WebUntis übernommen (automa
+ tisch).
+CATEGORIES:Beratung und eHealth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270309-1315-wu559375@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270309T131500
+DTEND;TZID=Europe/Zurich:20270309T170000
+SUMMARY:Beratung/eHealth: SEM: Schulungen planen und durchführen
+LOCATION:SPEN-A 426 / 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 M
+ ünchenstein
+DESCRIPTION:Modul: Beratung und eHealth\nAus WebUntis übernommen (automa
+ tisch).
+CATEGORIES:Beratung und eHealth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270318-0815-wu559384@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270318T081500
+DTEND;TZID=Europe/Zurich:20270318T120000
+SUMMARY:Beratung/eHealth: SEM:Analyse von Beratungssituationen
+LOCATION:SPEN-A 255 / 256\, BFH Gesundheit\, Binningerstrasse 2\, 4142 M
+ ünchenstein
+DESCRIPTION:Modul: Beratung und eHealth\nAus WebUntis übernommen (automa
+ tisch).
+CATEGORIES:Beratung und eHealth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270318-1515-wu552790@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270318T151500
+DTEND;TZID=Europe/Zurich:20270318T170000
+SUMMARY:Englisch: SEM: Upper Intermediate Level
+LOCATION:SPEN-A 232\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Technical English 2\nAus WebUntis übernommen (automat
+ isch).
+CATEGORIES:Technical English 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270319-0815-wu543553@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270319T081500
+DTEND;TZID=Europe/Zurich:20270319T100000
+SUMMARY:Forschung: VL: Forschungsparadigmen
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Basiswissen Forschung\nAus WebUntis übernommen (autom
+ atisch).
+CATEGORIES:Basiswissen Forschung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270319-1015-wu543556@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270319T101500
+DTEND;TZID=Europe/Zurich:20270319T120000
+SUMMARY:Forschung: VL: Forschungsprozess
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Basiswissen Forschung\nAus WebUntis übernommen (autom
+ atisch).
+CATEGORIES:Basiswissen Forschung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270319-1315-wu559390@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270319T131500
+DTEND;TZID=Europe/Zurich:20270319T170000
+SUMMARY:Beratung/eHealth: K-Training: Online Beratung
+LOCATION:Ort noch offen (siehe WebUntis)
+DESCRIPTION:Modul: Beratung und eHealth\nAus WebUntis übernommen (automa
+ tisch).
+CATEGORIES:Beratung und eHealth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270322-0815-wu545572@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270322T081500
+DTEND;TZID=Europe/Zurich:20270322T120000
+SUMMARY:KA 2: SKT: Psychischer Zustand
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Klinisches Assessment 2\nAus WebUntis übernommen (aut
+ omatisch).
+CATEGORIES:Klinisches Assessment 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270322-1315-wu559420@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270322T131500
+DTEND;TZID=Europe/Zurich:20270322T140000
+SUMMARY:Beratung/eHealth: EF: Frageforum zum KNW
+LOCATION:SPEN-A 255 / 256\, BFH Gesundheit\, Binningerstrasse 2\, 4142 M
+ ünchenstein
+DESCRIPTION:Modul: Beratung und eHealth\nAus WebUntis übernommen (automa
+ tisch).
+CATEGORIES:Beratung und eHealth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270323-0815-wu559405@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270323T081500
+DTEND;TZID=Europe/Zurich:20270323T170000
+SUMMARY:Beratung/eHealth: K-Training: Online Beratung
+LOCATION:Ort noch offen (siehe WebUntis)
+DESCRIPTION:Modul: Beratung und eHealth\nAus WebUntis übernommen (automa
+ tisch).
+CATEGORIES:Beratung und eHealth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270401-0815-wu559399@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270401T081500
+DTEND;TZID=Europe/Zurich:20270401T120000
+SUMMARY:Beratung/eHealth: K-Training: Online Beratung
+LOCATION:Ort noch offen (siehe WebUntis)
+DESCRIPTION:Modul: Beratung und eHealth\nAus WebUntis übernommen (automa
+ tisch).
+CATEGORIES:Beratung und eHealth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270401-1315-wu545575@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270401T131500
+DTEND;TZID=Europe/Zurich:20270401T150000
+SUMMARY:KA 2: VL: Pathologie / Pathophysiologie 2
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Klinisches Assessment 2\nAus WebUntis übernommen (aut
+ omatisch).
+CATEGORIES:Klinisches Assessment 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270401-1515-wu552802@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270401T151500
+DTEND;TZID=Europe/Zurich:20270401T170000
+SUMMARY:Englisch: SEM: Upper Intermediate Level
+LOCATION:SPEN-A 232\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Technical English 2\nAus WebUntis übernommen (automat
+ isch).
+CATEGORIES:Technical English 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270402-0815-wu543559@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270402T081500
+DTEND;TZID=Europe/Zurich:20270402T090000
+SUMMARY:Forschung: Einführung Modulabschlussarbeit
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Basiswissen Forschung\nAus WebUntis übernommen (autom
+ atisch).
+CATEGORIES:Basiswissen Forschung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270402-0915-wu543562@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270402T091500
+DTEND;TZID=Europe/Zurich:20270402T120000
+SUMMARY:Forschung: SEM\, Gr. A: Literaturrecherche\, Fragestellungen 1
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Basiswissen Forschung\nAus WebUntis übernommen (autom
+ atisch).
+CATEGORIES:Basiswissen Forschung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270402-0915-wu543565@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270402T091500
+DTEND;TZID=Europe/Zurich:20270402T120000
+SUMMARY:Forschung: SEM\, Gr. B: Literaturrecherche\, Fragestellungen 1
+LOCATION:SPEN-A 426\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Basiswissen Forschung\nAus WebUntis übernommen (autom
+ atisch).
+CATEGORIES:Basiswissen Forschung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270402-1315-wu559387@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270402T131500
+DTEND;TZID=Europe/Zurich:20270402T170000
+SUMMARY:Beratung/eHealth: K-Training: Online-Beratung
+LOCATION:Ort noch offen (siehe WebUntis)
+DESCRIPTION:Modul: Beratung und eHealth\nAus WebUntis übernommen (automa
+ tisch).
+CATEGORIES:Beratung und eHealth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270405-0815-wu545584@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270405T081500
+DTEND;TZID=Europe/Zurich:20270405T120000
+SUMMARY:KA 2: SKT: Bewegungsapparat
+LOCATION:SPEN-A 240 / 241 / 242 / 243 / 250 / 255\, BFH Gesundheit\, Binn
+ ingerstrasse 2\, 4142 Münchenstein
+DESCRIPTION:Modul: Klinisches Assessment 2\nAus WebUntis übernommen (aut
+ omatisch).
+CATEGORIES:Klinisches Assessment 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270406-0815-wu559393@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270406T081500
+DTEND;TZID=Europe/Zurich:20270406T170000
+SUMMARY:Beratung/eHealth: K-Training: Online Beratung
+LOCATION:Ort noch offen (siehe WebUntis)
+DESCRIPTION:Modul: Beratung und eHealth\nAus WebUntis übernommen (automa
+ tisch).
+CATEGORIES:Beratung und eHealth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270429-0815-wu552079@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270429T081500
+DTEND;TZID=Europe/Zurich:20270429T090000
+SUMMARY:Syst. Pflege: Moduleinführung
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270429-0915-wu552088@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270429T091500
+DTEND;TZID=Europe/Zurich:20270429T100000
+SUMMARY:Syst. Pflege: PBL1: Schritt 1-5\, Gr.2
+LOCATION:SPEN-A 426\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270429-1015-wu552091@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270429T101500
+DTEND;TZID=Europe/Zurich:20270429T120000
+SUMMARY:Syst. Pflege: VL: Ethik in der Pflegepraxis
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270429-1515-wu552799@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270429T151500
+DTEND;TZID=Europe/Zurich:20270429T170000
+SUMMARY:Englisch: SEM: Upper Intermediate Level
+LOCATION:SPEN-A 232\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Technical English 2\nAus WebUntis übernommen (automat
+ isch).
+CATEGORIES:Technical English 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270430-0815-wu543568@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270430T081500
+DTEND;TZID=Europe/Zurich:20270430T090000
+SUMMARY:Forschung: Einführung Plagiatsüberprüfung
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Basiswissen Forschung\nAus WebUntis übernommen (autom
+ atisch).
+CATEGORIES:Basiswissen Forschung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270430-0915-wu543571@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270430T091500
+DTEND;TZID=Europe/Zurich:20270430T120000
+SUMMARY:Forschung: SEM\, Gr. A: Literaturrecherche\, Fragestellungen 2
+LOCATION:SPEN-A 426\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Basiswissen Forschung\nAus WebUntis übernommen (autom
+ atisch).
+CATEGORIES:Basiswissen Forschung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270430-0915-wu543574@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270430T091500
+DTEND;TZID=Europe/Zurich:20270430T120000
+SUMMARY:Forschung: SEM\, Gr. B: Literaturrecherche\, Fragestellungen 2
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Basiswissen Forschung\nAus WebUntis übernommen (autom
+ atisch).
+CATEGORIES:Basiswissen Forschung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270503-0815-wu545578@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270503T081500
+DTEND;TZID=Europe/Zurich:20270503T120000
+SUMMARY:KA 2: SKT: Vertiefung Nervensystem
+LOCATION:SPEN-A 240 / 241 / 242 / 243 / 250 / 255\, BFH Gesundheit\, Binn
+ ingerstrasse 2\, 4142 Münchenstein
+DESCRIPTION:Modul: Klinisches Assessment 2\nAus WebUntis übernommen (aut
+ omatisch).
+CATEGORIES:Klinisches Assessment 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270504-0815-wu552097@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270504T081500
+DTEND;TZID=Europe/Zurich:20270504T090000
+SUMMARY:Syst. Pflege: PBL1: Schritt 7\, Gr.2
+LOCATION:SPEN-A 426\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270504-0915-wu552100@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270504T091500
+DTEND;TZID=Europe/Zurich:20270504T100000
+SUMMARY:Syst. Pflege: EF: Ethik in der Pflegepraxis
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270504-1015-wu552103@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270504T101500
+DTEND;TZID=Europe/Zurich:20270504T120000
+SUMMARY:Syst. Pflege: VL: Systemisches Denken in der Pflege
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270504-1315-wu552106@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270504T131500
+DTEND;TZID=Europe/Zurich:20270504T150000
+SUMMARY:Syst. Pflege: VL: Grenzsituationen der Moral
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270504-1515-wu552232@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270504T151500
+DTEND;TZID=Europe/Zurich:20270504T160000
+SUMMARY:Syst. Pflege: BSS 1: Freiheitsbeschränkende Massnahmen bei Erwac
+ hsenen und Kindern
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270504-1615-wu552226@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270504T161500
+DTEND;TZID=Europe/Zurich:20270504T170000
+SUMMARY:Syst. Pflege: BSS 3: Sicherheitskultur\, Umgang mit 1st/2nd Victi
+ ms
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270513-0815-wu552109@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270513T081500
+DTEND;TZID=Europe/Zurich:20270513T120000
+SUMMARY:Syst. Pflege: SEM: Organisation und Moderation ethischer Fallbesp
+ rechungen
+LOCATION:SPEN-A 426 / 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 M
+ ünchenstein
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270513-1315-wu552115@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270513T131500
+DTEND;TZID=Europe/Zurich:20270513T150000
+SUMMARY:Syst. Pflege: VL: Rechte von Patient*innen
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270513-1515-wu552829@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270513T151500
+DTEND;TZID=Europe/Zurich:20270513T170000
+SUMMARY:Englisch: SEM: Upper Intermediate Level
+LOCATION:SPEN-A 232\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Technical English 2\nAus WebUntis übernommen (automat
+ isch).
+CATEGORIES:Technical English 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270514-1115-wu543625@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270514T111500
+DTEND;TZID=Europe/Zurich:20270514T120000
+SUMMARY:Forschung: Installation Literaturverwaltungsprogramm
+LOCATION:G-Teams G-Teams\, BFH Gesundheit\, Binningerstrasse 2\, 4142 Mü
+ nchenstein
+DESCRIPTION:Modul: Basiswissen Forschung\nAus WebUntis übernommen (autom
+ atisch).
+CATEGORIES:Basiswissen Forschung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270514-1315-wu552229@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270514T131500
+DTEND;TZID=Europe/Zurich:20270514T140000
+SUMMARY:Syst. Pflege: BSS 2: Klinische Ethik in der Schweiz
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270514-1315-wu552118@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270514T131500
+DTEND;TZID=Europe/Zurich:20270514T150000
+SUMMARY:Syst. Pflege: VL: Shared Decision Making
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270518-0815-wu545590@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270518T081500
+DTEND;TZID=Europe/Zurich:20270518T120000
+SUMMARY:KA 2: SKT: Praxisparcours
+LOCATION:SPEN-A 240 / 241 / 242 / 243 / 250 / 255\, BFH Gesundheit\, Binn
+ ingerstrasse 2\, 4142 Münchenstein
+DESCRIPTION:Modul: Klinisches Assessment 2\nAus WebUntis übernommen (aut
+ omatisch).
+CATEGORIES:Klinisches Assessment 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270518-1615-wu552235@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270518T161500
+DTEND;TZID=Europe/Zurich:20270518T170000
+SUMMARY:Syst. Pflege: BSS 4: Case & Care Management
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270519-0815-wu542926@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270519T081500
+DTEND;TZID=Europe/Zurich:20270519T180000
+SUMMARY:BFH: BFH-Sporttag THE GAMES
+LOCATION:Ort noch offen (siehe WebUntis)
+DESCRIPTION:Modul: BFH\nAus WebUntis übernommen (automatisch).
+CATEGORIES:BFH
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270527-1115-wu552139@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270527T111500
+DTEND;TZID=Europe/Zurich:20270527T120000
+SUMMARY:Syst. Pflege: Exp.-Gespräch zu BSS 2
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270527-1515-wu552814@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270527T151500
+DTEND;TZID=Europe/Zurich:20270527T170000
+SUMMARY:Englisch: SEM: Upper Intermediate Level
+LOCATION:SPEN-A 232\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Technical English 2\nAus WebUntis übernommen (automat
+ isch).
+CATEGORIES:Technical English 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270528-0815-wu543583@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270528T081500
+DTEND;TZID=Europe/Zurich:20270528T100000
+SUMMARY:Forschung: VL: Quantitative Forschungsdesigns
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Basiswissen Forschung\nAus WebUntis übernommen (autom
+ atisch).
+CATEGORIES:Basiswissen Forschung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270528-1015-wu543586@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270528T101500
+DTEND;TZID=Europe/Zurich:20270528T140000
+SUMMARY:Forschung: SEM\, Gr. A: Beurteilen quantitativer Studien
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Basiswissen Forschung\nAus WebUntis übernommen (autom
+ atisch).
+CATEGORIES:Basiswissen Forschung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270528-1015-wu543589@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270528T101500
+DTEND;TZID=Europe/Zurich:20270528T140000
+SUMMARY:Forschung: SEM\, Gr. B: Beurteilen quantitativer Studien
+LOCATION:SPEN-A 426\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Basiswissen Forschung\nAus WebUntis übernommen (autom
+ atisch).
+CATEGORIES:Basiswissen Forschung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270528-1415-wu543592@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270528T141500
+DTEND;TZID=Europe/Zurich:20270528T150000
+SUMMARY:Forschung: SEM\, Gr. A: Literaturverwaltungsprogramm
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Basiswissen Forschung\nAus WebUntis übernommen (autom
+ atisch).
+CATEGORIES:Basiswissen Forschung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270528-1415-wu543595@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270528T141500
+DTEND;TZID=Europe/Zurich:20270528T150000
+SUMMARY:Forschung: SEM\, Gr. B: Literaturverwaltungsprogramm
+LOCATION:Mu10-426 Mu10-426\, BFH Gesundheit\, Binningerstrasse 2\, 4142 M
+ ünchenstein
+DESCRIPTION:Modul: Basiswissen Forschung\nAus WebUntis übernommen (autom
+ atisch).
+CATEGORIES:Basiswissen Forschung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270601-1415-wu552148@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270601T141500
+DTEND;TZID=Europe/Zurich:20270601T150000
+SUMMARY:Syst. Pflege: PBL5: 1-5\, Gr. 2
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270601-1515-wu552151@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270601T151500
+DTEND;TZID=Europe/Zurich:20270601T170000
+SUMMARY:Syst. Pflege: VL: Systemisches Fehlermanagement
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270610-0915-wu545596@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270610T091500
+DTEND;TZID=Europe/Zurich:20270610T110000
+SUMMARY:KA 2: MODULABSCHLUSSPRÜFUNG
+LOCATION:SPEN-A 411\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Klinisches Assessment 2\nAus WebUntis übernommen (aut
+ omatisch).
+CATEGORIES:Klinisches Assessment 2
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 14 Tagen: KA 2: MODULABSCHLUSSPRÜFUNG
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 7 Tagen: KA 2: MODULABSCHLUSSPRÜFUNG
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 2 Tagen: KA 2: MODULABSCHLUSSPRÜFUNG
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: KA 2: MODULABSCHLUSSPRÜFUNG
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270610-1115-wu552157@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270610T111500
+DTEND;TZID=Europe/Zurich:20270610T120000
+SUMMARY:Syst. Pflege: PBL5: 7\, Gr. 2
+LOCATION:SPEN-A 256\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270610-1315-wu552160@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270610T131500
+DTEND;TZID=Europe/Zurich:20270610T140000
+SUMMARY:Syst. Pflege: EF: Systemisches Fehlermanagement
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270610-1515-wu552811@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270610T151500
+DTEND;TZID=Europe/Zurich:20270610T170000
+SUMMARY:Englisch: FINAL MODULE EXAM Upper Intermediate Level
+LOCATION:SPEN-A 232\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Technical English 2\nAus WebUntis übernommen (automat
+ isch).
+CATEGORIES:Technical English 2
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 14 Tagen: Englisch: FINAL MODULE EXAM Upper Intermediate L
+ evel
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 7 Tagen: Englisch: FINAL MODULE EXAM Upper Intermediate Le
+ vel
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 2 Tagen: Englisch: FINAL MODULE EXAM Upper Intermediate Le
+ vel
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Englisch: FINAL MODULE EXAM Upper Intermediate Level
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270611-0815-wu543598@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270611T081500
+DTEND;TZID=Europe/Zurich:20270611T100000
+SUMMARY:Forschung: VL: Qualitative Forschungsdesigns
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Basiswissen Forschung\nAus WebUntis übernommen (autom
+ atisch).
+CATEGORIES:Basiswissen Forschung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270611-1015-wu543601@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270611T101500
+DTEND;TZID=Europe/Zurich:20270611T120000
+SUMMARY:Forschung: SEM\, Gr. A: Beurteilen qualitativer Studien
+LOCATION:SPEN-A 426\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Basiswissen Forschung\nAus WebUntis übernommen (autom
+ atisch).
+CATEGORIES:Basiswissen Forschung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270611-1015-wu543604@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270611T101500
+DTEND;TZID=Europe/Zurich:20270611T120000
+SUMMARY:Forschung: SEM\, Gr. B: Beurteilen qualitativer Studien
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Basiswissen Forschung\nAus WebUntis übernommen (autom
+ atisch).
+CATEGORIES:Basiswissen Forschung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270614-0815-wu542923@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270614T081500
+DTEND;TZID=Europe/Zurich:20270614T083700
+SUMMARY:BFH: Einführung OSCE
+LOCATION:Ort noch offen (siehe WebUntis)
+DESCRIPTION:Modul: BFH\nAus WebUntis übernommen (automatisch).
+CATEGORIES:BFH
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270614-0815-wu545599@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270614T081500
+DTEND;TZID=Europe/Zurich:20270614T120000
+SUMMARY:KA 2: SKT: Repetitorium
+LOCATION:SPEN-A 240 / 241 / 242 / 243 / 250 / 255\, BFH Gesundheit\, Binn
+ ingerstrasse 2\, 4142 Münchenstein
+DESCRIPTION:Modul: Klinisches Assessment 2\nAus WebUntis übernommen (aut
+ omatisch).
+CATEGORIES:Klinisches Assessment 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270614-1315-wu552163@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270614T131500
+DTEND;TZID=Europe/Zurich:20270614T170000
+SUMMARY:Syst. Pflege: SEM: Speak Up (K-Training)
+LOCATION:SPEN-A 232 / 255 / 256\, BFH Gesundheit\, Binningerstrasse 2\, 4
+ 142 Münchenstein
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270615-1015-wu552172@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270615T101500
+DTEND;TZID=Europe/Zurich:20270615T110000
+SUMMARY:Syst. Pflege: PBL6: 1-5\, Gr. 2
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270615-1115-wu552175@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270615T111500
+DTEND;TZID=Europe/Zurich:20270615T120000
+SUMMARY:Syst. Pflege: Exp.-Gespräch zu BSS 4
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270615-1515-wu552220@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270615T151500
+DTEND;TZID=Europe/Zurich:20270615T170000
+SUMMARY:Syst. Pflege: VL: Pflegende Angehörige
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270624-0815-wu542965@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270624T081500
+DTEND;TZID=Europe/Zurich:20270624T170000
+SUMMARY:BFH: Mini-OSCE: gem. sep. Programm
+LOCATION:SPEN-A 232 / 233 / 240 / 241 / 242 / 243 / 250 / 251 / 252 / 253
+  / 254 / 255 / 256 / 262 / 263\, BFH Gesundheit\, Binningerstrasse 2\, 41
+ 42 Münchenstein
+DESCRIPTION:Modul: BFH\nAus WebUntis übernommen (automatisch).
+CATEGORIES:BFH
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270625-1015-wu552181@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270625T101500
+DTEND;TZID=Europe/Zurich:20270625T110000
+SUMMARY:Syst. Pflege: PBL6: 7\, Gr. 2
+LOCATION:SPEN-A 256\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270625-1115-wu552187@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270625T111500
+DTEND;TZID=Europe/Zurich:20270625T120000
+SUMMARY:Syst. Pflege: PBL7: 1-5\, Gr. 2
+LOCATION:SPEN-A 256\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270628-0815-wu552190@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270628T081500
+DTEND;TZID=Europe/Zurich:20270628T090000
+SUMMARY:Syst. Pflege: EF: Pflegende Angehörige
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270628-0915-wu552196@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270628T091500
+DTEND;TZID=Europe/Zurich:20270628T100000
+SUMMARY:Syst. Pflege: PBL7: 7\, Gr. 2
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270628-1015-wu552199@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270628T101500
+DTEND;TZID=Europe/Zurich:20270628T120000
+SUMMARY:Syst. Pflege: VL: Palliative Care
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270629-0815-wu543232@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270629T081500
+DTEND;TZID=Europe/Zurich:20270629T100000
+SUMMARY:Forschung: VL(Screencast): Ethik und Forschung
+LOCATION:Ort noch offen (siehe WebUntis)
+DESCRIPTION:Modul: Basiswissen Forschung\nAus WebUntis übernommen (autom
+ atisch).
+CATEGORIES:Basiswissen Forschung
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270629-1015-wu552202@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270629T101500
+DTEND;TZID=Europe/Zurich:20270629T110000
+SUMMARY:Syst. Pflege: EF: Palliative Care
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270629-1115-wu552205@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270629T111500
+DTEND;TZID=Europe/Zurich:20270629T120000
+SUMMARY:Syst. Pflege: Exp.-Gespräch zu BSS 1
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270708-0815-wu543619@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270708T081500
+DTEND;TZID=Europe/Zurich:20270708T090000
+SUMMARY:Forschung: SCHRIFTLICHE PRÜFUNG
+LOCATION:SPEN-A 411\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Basiswissen Forschung\nAus WebUntis übernommen (autom
+ atisch).
+CATEGORIES:Basiswissen Forschung
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 14 Tagen: Forschung: SCHRIFTLICHE PRÜFUNG
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 7 Tagen: Forschung: SCHRIFTLICHE PRÜFUNG
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 2 Tagen: Forschung: SCHRIFTLICHE PRÜFUNG
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Forschung: SCHRIFTLICHE PRÜFUNG
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270708-1015-wu552208@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270708T101500
+DTEND;TZID=Europe/Zurich:20270708T120000
+SUMMARY:Syst. Pflege: MODULABSCHLUSSPRÜFUNG
+LOCATION:SPEN-A 411\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen
+  (automatisch).
+CATEGORIES:Systemische Pflege und Ethik
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 14 Tagen: Syst. Pflege: MODULABSCHLUSSPRÜFUNG
+TRIGGER:-P14D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 7 Tagen: Syst. Pflege: MODULABSCHLUSSPRÜFUNG
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 2 Tagen: Syst. Pflege: MODULABSCHLUSSPRÜFUNG
+TRIGGER:-P2D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morgen: Syst. Pflege: MODULABSCHLUSSPRÜFUNG
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270708-1315-wu552787@bfh-lektionen
+DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270708T131500
+DTEND;TZID=Europe/Zurich:20270708T150000
+SUMMARY:Englisch: SEM: Upper Intermediate Level
+LOCATION:SPEN-A 412\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Technical English 2\nAus WebUntis übernommen (automat
+ isch).
+CATEGORIES:Technical English 2
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR

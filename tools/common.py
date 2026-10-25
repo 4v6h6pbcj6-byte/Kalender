@@ -74,7 +74,7 @@ def fold(line):
     out.append(b)
     return '\r\n '.join(x.decode('utf-8') for x in out)
 # Erinnerungen: Tage vor Beginn, je nach Art des Termins
-ALARM_TAGE=[('ABGABE',[7,4,2,1]),('PRÜFUNG',[14,7,2,1]),('Prüfungseinsicht',[7,1])]
+ALARM_TAGE=[('ABGABE',[7,4,2,1]),('PRÜFUNG',[14,7,2,1]),('EXAM',[14,7,2,1]),('Prüfungseinsicht',[7,1])]
 def alarms_for(ev):
     s=next((v for k,v in ev['fields'].items() if k.split(';')[0]=='SUMMARY'),'')
     if s.startswith('ENTFÄLLT'): return []
