@@ -789,16 +789,28 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20261106-1415-pp-35@bfh-lektionen
-DTSTAMP:20260928T214710Z
+DTSTAMP:20261027T044817Z
 DTSTART;TZID=Europe/Zurich:20261106T141500
 DTEND;TZID=Europe/Zurich:20261106T150000
-SUMMARY:Prof. Pflege: Expert*innenforum: Intra-\, Interprofessionalität 
- (online)
+SUMMARY:ENTFÄLLT: Prof. Pflege: Expert*innenforum: Intra-\, Interprofess
+ ionalität (online)
 LOCATION:Online (Link auf Moodle / MS Teams)
 DESCRIPTION:Modul: Professionelle Pflege\nArt: Expert*innenforum\nForm: O
  nline\nThema 6\, Interprofessionalität: Theorie und Praxis. Fragen aus P
  BL 2 mitbringen.\nOnline. Ersatzraum vor Ort\, falls du an der BFH bist: 
  SPEN-A 425.
+CATEGORIES:Professionelle Pflege
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261106-1415-wu564437@bfh-lektionen
+DTSTAMP:20261027T044817Z
+DTSTART;TZID=Europe/Zurich:20261106T141500
+DTEND;TZID=Europe/Zurich:20261106T150000
+SUMMARY:Prof. Pflege: EF: Intra-\, Interprofessionalität
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Professionelle Pflege\nAus WebUntis übernommen (autom
+ atisch).
 CATEGORIES:Professionelle Pflege
 TRANSP:OPAQUE
 END:VEVENT
