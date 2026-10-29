@@ -2450,12 +2450,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20270514-1115-wu543625@bfh-lektionen
-DTSTAMP:20261025T093236Z
+DTSTAMP:20261029T044617Z
 DTSTART;TZID=Europe/Zurich:20270514T111500
 DTEND;TZID=Europe/Zurich:20270514T120000
 SUMMARY:Forschung: Installation Literaturverwaltungsprogramm
-LOCATION:G-Teams G-Teams\, BFH Gesundheit\, Binningerstrasse 2\, 4142 Mü
- nchenstein
+LOCATION:Online (Link auf Moodle / MS Teams)
 DESCRIPTION:Modul: Basiswissen Forschung\nAus WebUntis übernommen (autom
  atisch).
 CATEGORIES:Basiswissen Forschung
@@ -2922,11 +2921,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20270629-0815-wu543232@bfh-lektionen
-DTSTAMP:20261025T093236Z
+DTSTAMP:20261029T044617Z
 DTSTART;TZID=Europe/Zurich:20270629T081500
 DTEND;TZID=Europe/Zurich:20270629T100000
 SUMMARY:Forschung: VL(Screencast): Ethik und Forschung
-LOCATION:Ort noch offen (siehe WebUntis)
+LOCATION:Online (Link auf Moodle / MS Teams)
 DESCRIPTION:Modul: Basiswissen Forschung\nAus WebUntis übernommen (autom
  atisch).
 CATEGORIES:Basiswissen Forschung

@@ -2455,7 +2455,7 @@ null
 "start": "1115",
 "end": "1200",
 "rooms": [
-"G-Teams"
+"Online-G-G2"
 ],
 "lessonIds": [
 543625
@@ -3026,7 +3026,9 @@ null
 "cancelled": [],
 "start": "0815",
 "end": "1000",
-"rooms": [],
+"rooms": [
+"Online-G-SC"
+],
 "lessonIds": [
 543232
 ]
