@@ -24,7 +24,7 @@ def snap(ps):
     act=[p for p in ps if not p['cancelled']]
     return dict(ids=sorted(p['id'] for p in ps), cancelled=sorted(p['id'] for p in ps if p['cancelled']),
         start=min((p['start'] for p in act),default=None), end=max((p['end'] for p in act),default=None),
-        rooms=sorted(set(r for p in act for r in p['rooms'])), lessonIds=sorted(set(p['lessonId'] for p in ps)))
+        rooms=sorted(set(r for p in act for r in p['rooms'])), lessonIds=sorted(set(p['lessonId'] for p in ps),key=lambda x:(x is None,x or 0)))
 def setf(ev,name,val):
     k,_=key(ev,name)
     if k is None: k=name; ev['order'].insert(len(ev['order']),k)
