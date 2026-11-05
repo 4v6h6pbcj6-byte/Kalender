@@ -2077,10 +2077,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20270322-0815-wu545572@bfh-lektionen
-DTSTAMP:20261025T093236Z
+DTSTAMP:20261105T044635Z
 DTSTART;TZID=Europe/Zurich:20270322T081500
 DTEND;TZID=Europe/Zurich:20270322T120000
-SUMMARY:KA 2: SKT: Psychischer Zustand
+SUMMARY:ENTFÄLLT: KA 2: SKT: Psychischer Zustand
 LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
  stein
 DESCRIPTION:Modul: Klinisches Assessment 2\nAus WebUntis übernommen (aut
@@ -2090,10 +2090,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20270322-0815-wu564979@bfh-lektionen
-DTSTAMP:20261031T141043Z
+DTSTAMP:20261105T044635Z
 DTSTART;TZID=Europe/Zurich:20270322T081500
 DTEND;TZID=Europe/Zurich:20270322T120000
-SUMMARY:KA 2: SKT: Psychischer Zustand
+SUMMARY:ENTFÄLLT: KA 2: SKT: Psychischer Zustand
 LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
  stein
 DESCRIPTION:Modul: Klinisches Assessment 2\nAus WebUntis übernommen (aut
@@ -2102,16 +2102,42 @@ CATEGORIES:Klinisches Assessment 2
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:bb26-20270322-1115-wu559420@bfh-lektionen
+DTSTAMP:20261105T044635Z
+DTSTART;TZID=Europe/Zurich:20270322T111500
+DTEND;TZID=Europe/Zurich:20270322T120000
+SUMMARY:Beratung/eHealth: EF: Frageforum zum KNW
+LOCATION:SPEN-A 426 / 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 M
+ ünchenstein
+DESCRIPTION:Modul: Beratung und eHealth\nAus WebUntis übernommen (automa
+ tisch).
+CATEGORIES:Beratung und eHealth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:bb26-20270322-1315-wu559420@bfh-lektionen
-DTSTAMP:20261025T093236Z
+DTSTAMP:20261105T044635Z
 DTSTART;TZID=Europe/Zurich:20270322T131500
 DTEND;TZID=Europe/Zurich:20270322T140000
-SUMMARY:Beratung/eHealth: EF: Frageforum zum KNW
+SUMMARY:ENTFÄLLT: Beratung/eHealth: EF: Frageforum zum KNW
 LOCATION:SPEN-A 255 / 256\, BFH Gesundheit\, Binningerstrasse 2\, 4142 M
  ünchenstein
 DESCRIPTION:Modul: Beratung und eHealth\nAus WebUntis übernommen (automa
  tisch).
 CATEGORIES:Beratung und eHealth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270322-1315-wu545572@bfh-lektionen
+DTSTAMP:20261105T044635Z
+DTSTART;TZID=Europe/Zurich:20270322T131500
+DTEND;TZID=Europe/Zurich:20270322T170000
+SUMMARY:KA 2: SKT: Psychischer Zustand
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
+DESCRIPTION:Modul: Klinisches Assessment 2\nAus WebUntis übernommen (aut
+ omatisch).
+CATEGORIES:Klinisches Assessment 2
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
