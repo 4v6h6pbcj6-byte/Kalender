@@ -882,12 +882,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20261110-1315-pp-40@bfh-lektionen
-DTSTAMP:20260928T214710Z
+DTSTAMP:20261106T044636Z
 DTSTART;TZID=Europe/Zurich:20261110T131500
 DTEND;TZID=Europe/Zurich:20261110T150000
 SUMMARY:Prof. Pflege: Einführung Gruppenarbeit Public Health
-LOCATION:SPEN-A 425 / 426\, BFH Gesundheit\, Binningerstrasse 2\, 4142 M
- ünchenstein
+LOCATION:Online (Link auf Moodle / MS Teams)
 DESCRIPTION:Modul: Professionelle Pflege\nArt: Seminar\nForm: Präsenz vo
  r Ort\nThema 8. Infos zur Gruppenarbeit\, Gruppen von 4 bis 5 Personen bi
  lden\, Thema wählen (Themenliste auf Moodle\, möglichst mit Bezug zur e
@@ -1625,12 +1624,25 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20270204-0815-wu544201@bfh-lektionen
-DTSTAMP:20261010T140607Z
+DTSTAMP:20261106T044636Z
 DTSTART;TZID=Europe/Zurich:20270204T081500
 DTEND;TZID=Europe/Zurich:20270204T120000
 SUMMARY:GÖP: Präsentation Positionspapier
-LOCATION:SPEN-A 425 / 426 / 427\, BFH Gesundheit\, Binningerstrasse 2\, 4
- 142 Münchenstein
+LOCATION:SPEN-A 426 / 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 M
+ ünchenstein
+DESCRIPTION:Modul: Gesundheitsökonomie und Gesundheitspolitik\nAus WebUn
+ tis übernommen (automatisch).
+CATEGORIES:Gesundheitsökonomie und Gesundheitspolitik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270204-0815-wu565007@bfh-lektionen
+DTSTAMP:20261106T044636Z
+DTSTART;TZID=Europe/Zurich:20270204T081500
+DTEND;TZID=Europe/Zurich:20270204T120000
+SUMMARY:GÖP: Präsentation Positionspapier
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
 DESCRIPTION:Modul: Gesundheitsökonomie und Gesundheitspolitik\nAus WebUn
  tis übernommen (automatisch).
 CATEGORIES:Gesundheitsökonomie und Gesundheitspolitik
@@ -1638,11 +1650,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20270204-1315-wu552577@bfh-lektionen
-DTSTAMP:20261010T140607Z
+DTSTAMP:20261106T044636Z
 DTSTART;TZID=Europe/Zurich:20270204T131500
 DTEND;TZID=Europe/Zurich:20270204T150000
 SUMMARY:Englisch: Upper Intermediate
-LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
  stein
 DESCRIPTION:Modul: Technical English 1\nAus WebUntis übernommen (automat
  isch).
@@ -1651,7 +1663,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20270205-1015-wu544480@bfh-lektionen
-DTSTAMP:20261010T140607Z
+DTSTAMP:20261106T044636Z
 DTSTART;TZID=Europe/Zurich:20270205T101500
 DTEND;TZID=Europe/Zurich:20270205T120000
 SUMMARY:Inferenzstatistik: PRÜFUNG: Modulabschlussprüfung
@@ -1928,6 +1940,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20270308-0815-wu545566@bfh-lektionen
 DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270308T081500
+DTEND;TZID=Europe/Zurich:20270308T120000
+SUMMARY:KA 2: SKT: Haut- und Lymphknoten
+LOCATION:SPEN-A 240 / 241 / 242 / 243 / 250 / 255\, BFH Gesundheit\, Binn
+ ingerstrasse 2\, 4142 Münchenstein
+DESCRIPTION:Modul: Klinisches Assessment 2\nAus WebUntis übernommen (aut
+ omatisch).
+CATEGORIES:Klinisches Assessment 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270308-0815-wu565010@bfh-lektionen
+DTSTAMP:20261106T044636Z
 DTSTART;TZID=Europe/Zurich:20270308T081500
 DTEND;TZID=Europe/Zurich:20270308T120000
 SUMMARY:KA 2: SKT: Haut- und Lymphknoten
@@ -2255,6 +2280,19 @@ CATEGORIES:Klinisches Assessment 2
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:bb26-20270405-0815-wu565013@bfh-lektionen
+DTSTAMP:20261106T044636Z
+DTSTART;TZID=Europe/Zurich:20270405T081500
+DTEND;TZID=Europe/Zurich:20270405T120000
+SUMMARY:KA 2: SKT: Bewegungsapparat
+LOCATION:SPEN-A 240 / 241 / 242 / 243 / 250 / 255\, BFH Gesundheit\, Binn
+ ingerstrasse 2\, 4142 Münchenstein
+DESCRIPTION:Modul: Klinisches Assessment 2\nAus WebUntis übernommen (aut
+ omatisch).
+CATEGORIES:Klinisches Assessment 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:bb26-20270406-0815-wu559393@bfh-lektionen
 DTSTAMP:20261025T093236Z
 DTSTART;TZID=Europe/Zurich:20270406T081500
@@ -2360,6 +2398,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20270503-0815-wu545578@bfh-lektionen
 DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270503T081500
+DTEND;TZID=Europe/Zurich:20270503T120000
+SUMMARY:KA 2: SKT: Vertiefung Nervensystem
+LOCATION:SPEN-A 240 / 241 / 242 / 243 / 250 / 255\, BFH Gesundheit\, Binn
+ ingerstrasse 2\, 4142 Münchenstein
+DESCRIPTION:Modul: Klinisches Assessment 2\nAus WebUntis übernommen (aut
+ omatisch).
+CATEGORIES:Klinisches Assessment 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270503-0815-wu565016@bfh-lektionen
+DTSTAMP:20261106T044636Z
 DTSTART;TZID=Europe/Zurich:20270503T081500
 DTEND;TZID=Europe/Zurich:20270503T120000
 SUMMARY:KA 2: SKT: Vertiefung Nervensystem
@@ -2822,6 +2873,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20270614-0815-wu545599@bfh-lektionen
 DTSTAMP:20261025T093236Z
+DTSTART;TZID=Europe/Zurich:20270614T081500
+DTEND;TZID=Europe/Zurich:20270614T120000
+SUMMARY:KA 2: SKT: Repetitorium
+LOCATION:SPEN-A 240 / 241 / 242 / 243 / 250 / 255\, BFH Gesundheit\, Binn
+ ingerstrasse 2\, 4142 Münchenstein
+DESCRIPTION:Modul: Klinisches Assessment 2\nAus WebUntis übernommen (aut
+ omatisch).
+CATEGORIES:Klinisches Assessment 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270614-0815-wu565019@bfh-lektionen
+DTSTAMP:20261106T044636Z
 DTSTART;TZID=Europe/Zurich:20270614T081500
 DTEND;TZID=Europe/Zurich:20270614T120000
 SUMMARY:KA 2: SKT: Repetitorium
