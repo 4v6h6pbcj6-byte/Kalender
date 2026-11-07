@@ -1198,6 +1198,19 @@ CATEGORIES:Klinisches Assessment 1
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:bb26-20261207-1315-wu565024@bfh-lektionen
+DTSTAMP:20261107T044623Z
+DTSTART;TZID=Europe/Zurich:20261207T131500
+DTEND;TZID=Europe/Zurich:20261207T170000
+SUMMARY:KA 1: SKT: Vertiefung und Praxistransfer
+LOCATION:SPEN-A 240 / 241 / 242 / 243 / 250 / 425\, BFH Gesundheit\, Binn
+ ingerstrasse 2\, 4142 Münchenstein
+DESCRIPTION:Modul: Klinisches Assessment 1\nAus WebUntis übernommen (aut
+ omatisch).
+CATEGORIES:Klinisches Assessment 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:bb26-20261208-0915-gop-58@bfh-lektionen
 DTSTAMP:20260928T214710Z
 DTSTART;TZID=Europe/Zurich:20261208T091500
@@ -1364,6 +1377,19 @@ DESCRIPTION:Modul: Klinisches Assessment 1\nArt: Skillstraining\nForm: Pr
  äsenz vor Ort\nVorbereitung: alle bisherigen Themen und Untersuchungen w
  iederholen\, Handlungsanalysen repetieren\, Fragen notieren.\nMitbringen:
   alle Untersuchungsutensilien.
+CATEGORIES:Klinisches Assessment 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270111-1315-wu565027@bfh-lektionen
+DTSTAMP:20261107T044623Z
+DTSTART;TZID=Europe/Zurich:20270111T131500
+DTEND;TZID=Europe/Zurich:20270111T170000
+SUMMARY:KA 1: SKT: Repetitorium
+LOCATION:SPEN-A 240 / 241 / 242 / 243 / 250 / 255\, BFH Gesundheit\, Binn
+ ingerstrasse 2\, 4142 Münchenstein
+DESCRIPTION:Modul: Klinisches Assessment 1\nAus WebUntis übernommen (aut
+ omatisch).
 CATEGORIES:Klinisches Assessment 1
 TRANSP:OPAQUE
 END:VEVENT
