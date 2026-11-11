@@ -1508,10 +1508,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20270122-0815-ifs-76@bfh-lektionen
-DTSTAMP:20260928T214710Z
+DTSTAMP:20261111T044625Z
 DTSTART;TZID=Europe/Zurich:20270122T081500
 DTEND;TZID=Europe/Zurich:20270122T100000
-SUMMARY:Inferenzstatistik: Repetitorium
+SUMMARY:ENTFÄLLT: Inferenzstatistik: Repetitorium
 LOCATION:SPEN-A 255 / 256\, BFH Gesundheit\, Binningerstrasse 2\, 4142 M
  ünchenstein
 DESCRIPTION:Modul: Inferenzstatistik\nArt: Vorlesung\nForm: Präsenz vor 
@@ -1520,16 +1520,42 @@ CATEGORIES:Inferenzstatistik
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:bb26-20270122-0815-wu544180@bfh-lektionen
+DTSTAMP:20261111T044625Z
+DTSTART;TZID=Europe/Zurich:20270122T081500
+DTEND;TZID=Europe/Zurich:20270122T100000
+SUMMARY:GÖP: Beratung Positionspapier
+LOCATION:SPEN-A 232 / 255 / 256\, BFH Gesundheit\, Binningerstrasse 2\, 4
+ 142 Münchenstein
+DESCRIPTION:Modul: Gesundheitsökonomie und Gesundheitspolitik\nAus WebUn
+ tis übernommen (automatisch).
+CATEGORIES:Gesundheitsökonomie und Gesundheitspolitik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:bb26-20270122-1015-gop-77@bfh-lektionen
-DTSTAMP:20260928T214710Z
+DTSTAMP:20261111T044625Z
 DTSTART;TZID=Europe/Zurich:20270122T101500
 DTEND;TZID=Europe/Zurich:20270122T120000
-SUMMARY:GÖP: Beratung Positionspapier
+SUMMARY:ENTFÄLLT: GÖP: Beratung Positionspapier
 LOCATION:SPEN-A 255 / 256 / 232\, BFH Gesundheit\, Binningerstrasse 2\, 4
  142 Münchenstein
 DESCRIPTION:Modul: Gesundheitsökonomie und Gesundheitspolitik\nArt: Bera
  tung\nForm: Präsenz vor Ort\nModulhandbuch noch nicht verfügbar.
 CATEGORIES:Gesundheitsökonomie und Gesundheitspolitik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20270122-1015-wu544477@bfh-lektionen
+DTSTAMP:20261111T044625Z
+DTSTART;TZID=Europe/Zurich:20270122T101500
+DTEND;TZID=Europe/Zurich:20270122T120000
+SUMMARY:Inferenzstatistik: VL: Repetitorium
+LOCATION:SPEN-A 255 / 256\, BFH Gesundheit\, Binningerstrasse 2\, 4142 M
+ ünchenstein
+DESCRIPTION:Modul: Inferenzstatistik\nAus WebUntis übernommen (automatis
+ ch).
+CATEGORIES:Inferenzstatistik
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
