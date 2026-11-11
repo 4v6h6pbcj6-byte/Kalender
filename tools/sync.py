@@ -44,6 +44,8 @@ def main(init=False, raw=None):
     P=periods(weeks)
     head,evs=parse_ics(open(ICS,encoding='utf-8').read())
     base=json.load(open(BASE)) if os.path.exists(BASE) and not init else {'events':{},'known':[],'mine':[]}
+    # Ausgefallene Lektionen stehen nicht im Kalender, sondern nur hier (für «Findet doch statt»)
+    evs+=list(base.pop('entfallen',{}).values())
     tod=today.strftime('%Y%m%d'); changes=[]
     fetched_from=min(P[k]['date'] for k in P) if P else tod
     known=set(base.get('known',[])); mine=set(base.get('mine',[]))
@@ -95,6 +97,9 @@ def main(init=False, raw=None):
         changes.append(f"NEU: {dstr(d)} {SUBJNAME.get(ps[0]['subj'],ps[0]['subj'])}: {ps[0]['text']} {min(p['start'] for p in ps)[:2]}:{min(p['start'] for p in ps)[2:]}{hint}")
     base['known']=sorted(known|covered); base['mine']=sorted(mine)
     evs.sort(key=lambda e:(key(e,'DTSTART')[1] or ''))
+    weg=[e for e in evs if (key(e,'SUMMARY')[1] or '').startswith('ENTFÄLLT')]
+    base['entfallen']={key(e,'UID')[1]:e for e in weg}
+    evs=[e for e in evs if e not in weg]
     open(ICS,'w',encoding='utf-8',newline='').write(write_ics(head,evs,CAL))
     json.dump(base,open(BASE,'w'),indent=0)
     import common

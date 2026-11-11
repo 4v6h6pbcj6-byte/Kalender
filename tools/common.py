@@ -57,7 +57,9 @@ def parse_ics(t):
             if l.startswith('BEGIN:VALARM'): inalarm=True; continue
             if l.startswith('END:VALARM'): inalarm=False; continue
             if inalarm: continue  # Erinnerungen werden beim Schreiben neu erzeugt
-            k,_,v=l.partition(':'); f[k]=v; order.append(k)
+            k,_,v=l.partition(':')
+            if k.split(';')[0]=='SUMMARY' and v.startswith(PRUEF_MARK): v=v[len(PRUEF_MARK):]
+            f[k]=v; order.append(k)
         evs.append(dict(fields=f,order=order))
     return head,evs
 def key(ev,name):
@@ -86,12 +88,18 @@ def alarms_for(ev):
                 out+=['BEGIN:VALARM','ACTION:DISPLAY',f'DESCRIPTION:{txt}: '+s,f'TRIGGER:-P{t}D','END:VALARM']
             return out
     return []
+# Prüfungen im Kalender mit rotem Punkt markieren (Apple Kalender kennt keine Farbe pro Termin im Abo)
+PRUEF_MARK='🔴 '
+def ist_pruefung(s): return not s.startswith('ENTFÄLLT') and ('PRÜFUNG' in s or 'EXAM' in s)
 def write_ics(head,evs,calname):
     head=re.sub(r'X-WR-CALNAME:.*',f'X-WR-CALNAME:{calname}',head.replace('\r\n','\n'))
     lines=[l for l in head.strip('\n').split('\n')]
     for ev in evs:
         lines.append('BEGIN:VEVENT')
-        for k in ev['order']: lines.append(f"{k}:{ev['fields'][k]}")
+        for k in ev['order']:
+            v=ev['fields'][k]
+            if k.split(';')[0]=='SUMMARY' and ist_pruefung(v): v=PRUEF_MARK+v
+            lines.append(f"{k}:{v}")
         lines+=alarms_for(ev)
         lines.append('END:VEVENT')
     lines.append('END:VCALENDAR')

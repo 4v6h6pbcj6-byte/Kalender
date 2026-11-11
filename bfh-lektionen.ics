@@ -446,20 +446,6 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bb26-20261023-0815-dst-19@bfh-lektionen
-DTSTAMP:20261023T034623Z
-DTSTART;TZID=Europe/Zurich:20261023T081500
-DTEND;TZID=Europe/Zurich:20261023T100000
-SUMMARY:ENTFÄLLT: Statistik: Binomialverteilung
-LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
- stein
-DESCRIPTION:Modul: Deskriptive Statistik\nArt: Vorlesung\nForm: Präsenz 
- vor Ort\nThema 5. Weiterführende Literatur: Müller (2019)\, S. 81–84.
- \nHeute 08:00 fällig: Übung 3 und Übung 4 auf Moodle.
-CATEGORIES:Deskriptive Statistik
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:bb26-20261023-0815-wu564287@bfh-lektionen
 DTSTAMP:20261023T034623Z
 DTSTART;TZID=Europe/Zurich:20261023T081500
@@ -556,7 +542,8 @@ UID:bb26-20261027-0815-pp-24@bfh-lektionen
 DTSTAMP:20260928T214710Z
 DTSTART;TZID=Europe/Zurich:20261027T081500
 DTEND;TZID=Europe/Zurich:20261027T090000
-SUMMARY:Prof. Pflege: PRÜFUNG: Schriftliche Prüfung Themen 1–4 (30 %)
+SUMMARY:🔴 Prof. Pflege: PRÜFUNG: Schriftliche Prüfung Themen 1–4 (
+ 30 %)
 LOCATION:SPEN-A 411\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
  stein
 DESCRIPTION:Morgen: Prof. Pflege: PRÜFUNG: Schriftliche Prüfung Themen 
@@ -728,7 +715,7 @@ UID:bb26-20261106-0815-dst-32@bfh-lektionen
 DTSTAMP:20261031T141043Z
 DTSTART;TZID=Europe/Zurich:20261106T081500
 DTEND;TZID=Europe/Zurich:20261106T094500
-SUMMARY:Statistik: PRÜFUNG: Modulabschlussprüfung (70 %)
+SUMMARY:🔴 Statistik: PRÜFUNG: Modulabschlussprüfung (70 %)
 LOCATION:SPEN-A 411\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
  stein
 DESCRIPTION:Morgen: Statistik: PRÜFUNG: Modulabschlussprüfung (70 %)
@@ -784,21 +771,6 @@ LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
 DESCRIPTION:Modul: Professionelle Pflege\nArt: PBL\nForm: Präsenz vor Or
  t\nPBL 2 Herbert Blum\, Schritt 7: Ergebnisse zusammentragen.\nPräsenzpf
  licht PBL-Tutorate: mindestens 80 %.
-CATEGORIES:Professionelle Pflege
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:bb26-20261106-1415-pp-35@bfh-lektionen
-DTSTAMP:20261027T044817Z
-DTSTART;TZID=Europe/Zurich:20261106T141500
-DTEND;TZID=Europe/Zurich:20261106T150000
-SUMMARY:ENTFÄLLT: Prof. Pflege: Expert*innenforum: Intra-\, Interprofess
- ionalität (online)
-LOCATION:Online (Link auf Moodle / MS Teams)
-DESCRIPTION:Modul: Professionelle Pflege\nArt: Expert*innenforum\nForm: O
- nline\nThema 6\, Interprofessionalität: Theorie und Praxis. Fragen aus P
- BL 2 mitbringen.\nOnline. Ersatzraum vor Ort\, falls du an der BFH bist: 
- SPEN-A 425.
 CATEGORIES:Professionelle Pflege
 TRANSP:OPAQUE
 END:VEVENT
@@ -976,19 +948,6 @@ CATEGORIES:Technical English 1
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:bb26-20261120-0815-ifs-46@bfh-lektionen
-DTSTAMP:20261023T034623Z
-DTSTART;TZID=Europe/Zurich:20261120T081500
-DTEND;TZID=Europe/Zurich:20261120T100000
-SUMMARY:ENTFÄLLT: Inferenzstatistik: z-Test
-LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
- stein
-DESCRIPTION:Modul: Inferenzstatistik\nArt: Vorlesung\nForm: Präsenz vor 
- Ort\nModulhandbuch noch nicht verfügbar.
-CATEGORIES:Inferenzstatistik
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:bb26-20261120-0815-wu564309@bfh-lektionen
 DTSTAMP:20261023T034623Z
 DTSTART;TZID=Europe/Zurich:20261120T081500
@@ -997,19 +956,6 @@ SUMMARY:Inferenzstatistik: VL: z-Test
 LOCATION:Online (Link auf Moodle / MS Teams)
 DESCRIPTION:Modul: Inferenzstatistik\nAus WebUntis übernommen (automatis
  ch).
-CATEGORIES:Inferenzstatistik
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:bb26-20261120-1015-ifs-47@bfh-lektionen
-DTSTAMP:20261023T034623Z
-DTSTART;TZID=Europe/Zurich:20261120T101500
-DTEND;TZID=Europe/Zurich:20261120T120000
-SUMMARY:ENTFÄLLT: Inferenzstatistik: t-Test
-LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
- stein
-DESCRIPTION:Modul: Inferenzstatistik\nArt: Vorlesung\nForm: Präsenz vor 
- Ort\nModulhandbuch noch nicht verfügbar.
 CATEGORIES:Inferenzstatistik
 TRANSP:OPAQUE
 END:VEVENT
@@ -1096,8 +1042,8 @@ UID:bb26-20261203-1015-pp-52@bfh-lektionen
 DTSTAMP:20260928T214710Z
 DTSTART;TZID=Europe/Zurich:20261203T101500
 DTEND;TZID=Europe/Zurich:20261203T114500
-SUMMARY:Prof. Pflege: PRÜFUNG: Modulabschlussprüfung Themen 1–8 (70 %
- )
+SUMMARY:🔴 Prof. Pflege: PRÜFUNG: Modulabschlussprüfung Themen 1–8 
+ (70 %)
 LOCATION:SPEN-A 411\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
  stein
 DESCRIPTION:Morgen: Prof. Pflege: PRÜFUNG: Modulabschlussprüfung Themen
@@ -1474,7 +1420,7 @@ UID:bb26-20270121-1315-te-75@bfh-lektionen
 DTSTAMP:20260928T214710Z
 DTSTART;TZID=Europe/Zurich:20270121T131500
 DTEND;TZID=Europe/Zurich:20270121T150000
-SUMMARY:Englisch: PRÜFUNG: End of Module Examination 1 (100 %)
+SUMMARY:🔴 Englisch: PRÜFUNG: End of Module Examination 1 (100 %)
 LOCATION:SPEN-A 232\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
  stein
 DESCRIPTION:Morgen: Englisch: PRÜFUNG: End of Module Examination 1 (100 
@@ -1507,19 +1453,6 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bb26-20270122-0815-ifs-76@bfh-lektionen
-DTSTAMP:20261111T044625Z
-DTSTART;TZID=Europe/Zurich:20270122T081500
-DTEND;TZID=Europe/Zurich:20270122T100000
-SUMMARY:ENTFÄLLT: Inferenzstatistik: Repetitorium
-LOCATION:SPEN-A 255 / 256\, BFH Gesundheit\, Binningerstrasse 2\, 4142 M
- ünchenstein
-DESCRIPTION:Modul: Inferenzstatistik\nArt: Vorlesung\nForm: Präsenz vor 
- Ort\nModulhandbuch noch nicht verfügbar.
-CATEGORIES:Inferenzstatistik
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:bb26-20270122-0815-wu544180@bfh-lektionen
 DTSTAMP:20261111T044625Z
 DTSTART;TZID=Europe/Zurich:20270122T081500
@@ -1529,19 +1462,6 @@ LOCATION:SPEN-A 232 / 255 / 256\, BFH Gesundheit\, Binningerstrasse 2\, 4
  142 Münchenstein
 DESCRIPTION:Modul: Gesundheitsökonomie und Gesundheitspolitik\nAus WebUn
  tis übernommen (automatisch).
-CATEGORIES:Gesundheitsökonomie und Gesundheitspolitik
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:bb26-20270122-1015-gop-77@bfh-lektionen
-DTSTAMP:20261111T044625Z
-DTSTART;TZID=Europe/Zurich:20270122T101500
-DTEND;TZID=Europe/Zurich:20270122T120000
-SUMMARY:ENTFÄLLT: GÖP: Beratung Positionspapier
-LOCATION:SPEN-A 255 / 256 / 232\, BFH Gesundheit\, Binningerstrasse 2\, 4
- 142 Münchenstein
-DESCRIPTION:Modul: Gesundheitsökonomie und Gesundheitspolitik\nArt: Bera
- tung\nForm: Präsenz vor Ort\nModulhandbuch noch nicht verfügbar.
 CATEGORIES:Gesundheitsökonomie und Gesundheitspolitik
 TRANSP:OPAQUE
 END:VEVENT
@@ -1576,7 +1496,7 @@ UID:bb26-20270125-0815-ka-79@bfh-lektionen
 DTSTAMP:20260928T214710Z
 DTSTART;TZID=Europe/Zurich:20270125T081500
 DTEND;TZID=Europe/Zurich:20270125T170000
-SUMMARY:KA 1: PRÜFUNG: Skillsprüfung (30 %)
+SUMMARY:🔴 KA 1: PRÜFUNG: Skillsprüfung (30 %)
 LOCATION:SPEN-A 253 / 254 / 255\, BFH Gesundheit\, Binningerstrasse 2\, 4
  142 Münchenstein
 DESCRIPTION:Morgen: KA 1: PRÜFUNG: Skillsprüfung (30 %)
@@ -1608,7 +1528,7 @@ UID:bb26-20270126-0815-ka-80@bfh-lektionen
 DTSTAMP:20260928T214710Z
 DTSTART;TZID=Europe/Zurich:20270126T081500
 DTEND;TZID=Europe/Zurich:20270126T094500
-SUMMARY:KA 1: PRÜFUNG: Modulabschlussprüfung (70 %)
+SUMMARY:🔴 KA 1: PRÜFUNG: Modulabschlussprüfung (70 %)
 LOCATION:SPEN-A 411\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
  stein
 DESCRIPTION:Morgen: KA 1: PRÜFUNG: Modulabschlussprüfung (70 %)
@@ -1718,7 +1638,7 @@ UID:bb26-20270205-1015-wu544480@bfh-lektionen
 DTSTAMP:20261106T044636Z
 DTSTART;TZID=Europe/Zurich:20270205T101500
 DTEND;TZID=Europe/Zurich:20270205T120000
-SUMMARY:Inferenzstatistik: PRÜFUNG: Modulabschlussprüfung
+SUMMARY:🔴 Inferenzstatistik: PRÜFUNG: Modulabschlussprüfung
 LOCATION:SPEN-A 411\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
  stein
 DESCRIPTION:Modul: Inferenzstatistik\nAus WebUntis übernommen (automatis
@@ -1754,7 +1674,7 @@ UID:bb26-20270205-1315-wu544207@bfh-lektionen
 DTSTAMP:20261010T140607Z
 DTSTART;TZID=Europe/Zurich:20270205T131500
 DTEND;TZID=Europe/Zurich:20270205T140000
-SUMMARY:GÖP: PRÜFUNG: Schriftliche Prüfung
+SUMMARY:🔴 GÖP: PRÜFUNG: Schriftliche Prüfung
 LOCATION:SPEN-A 411\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
  stein
 DESCRIPTION:Modul: Gesundheitsökonomie und Gesundheitspolitik\nAus WebUn
@@ -2153,51 +2073,12 @@ CATEGORIES:Beratung und eHealth
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:bb26-20270322-0815-wu545572@bfh-lektionen
-DTSTAMP:20261105T044635Z
-DTSTART;TZID=Europe/Zurich:20270322T081500
-DTEND;TZID=Europe/Zurich:20270322T120000
-SUMMARY:ENTFÄLLT: KA 2: SKT: Psychischer Zustand
-LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
- stein
-DESCRIPTION:Modul: Klinisches Assessment 2\nAus WebUntis übernommen (aut
- omatisch).
-CATEGORIES:Klinisches Assessment 2
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:bb26-20270322-0815-wu564979@bfh-lektionen
-DTSTAMP:20261105T044635Z
-DTSTART;TZID=Europe/Zurich:20270322T081500
-DTEND;TZID=Europe/Zurich:20270322T120000
-SUMMARY:ENTFÄLLT: KA 2: SKT: Psychischer Zustand
-LOCATION:SPEN-A 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
- stein
-DESCRIPTION:Modul: Klinisches Assessment 2\nAus WebUntis übernommen (aut
- omatisch).
-CATEGORIES:Klinisches Assessment 2
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:bb26-20270322-1115-wu559420@bfh-lektionen
 DTSTAMP:20261105T044635Z
 DTSTART;TZID=Europe/Zurich:20270322T111500
 DTEND;TZID=Europe/Zurich:20270322T120000
 SUMMARY:Beratung/eHealth: EF: Frageforum zum KNW
 LOCATION:SPEN-A 426 / 427\, BFH Gesundheit\, Binningerstrasse 2\, 4142 M
- ünchenstein
-DESCRIPTION:Modul: Beratung und eHealth\nAus WebUntis übernommen (automa
- tisch).
-CATEGORIES:Beratung und eHealth
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:bb26-20270322-1315-wu559420@bfh-lektionen
-DTSTAMP:20261105T044635Z
-DTSTART;TZID=Europe/Zurich:20270322T131500
-DTEND;TZID=Europe/Zurich:20270322T140000
-SUMMARY:ENTFÄLLT: Beratung/eHealth: EF: Frageforum zum KNW
-LOCATION:SPEN-A 255 / 256\, BFH Gesundheit\, Binningerstrasse 2\, 4142 M
  ünchenstein
 DESCRIPTION:Modul: Beratung und eHealth\nAus WebUntis übernommen (automa
  tisch).
@@ -2783,7 +2664,7 @@ UID:bb26-20270610-0915-wu545596@bfh-lektionen
 DTSTAMP:20261025T093236Z
 DTSTART;TZID=Europe/Zurich:20270610T091500
 DTEND;TZID=Europe/Zurich:20270610T110000
-SUMMARY:KA 2: MODULABSCHLUSSPRÜFUNG
+SUMMARY:🔴 KA 2: MODULABSCHLUSSPRÜFUNG
 LOCATION:SPEN-A 411\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
  stein
 DESCRIPTION:Modul: Klinisches Assessment 2\nAus WebUntis übernommen (aut
@@ -2841,7 +2722,7 @@ UID:bb26-20270610-1515-wu552811@bfh-lektionen
 DTSTAMP:20261025T093236Z
 DTSTART;TZID=Europe/Zurich:20270610T151500
 DTEND;TZID=Europe/Zurich:20270610T170000
-SUMMARY:Englisch: FINAL MODULE EXAM Upper Intermediate Level
+SUMMARY:🔴 Englisch: FINAL MODULE EXAM Upper Intermediate Level
 LOCATION:SPEN-A 232\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
  stein
 DESCRIPTION:Modul: Technical English 2\nAus WebUntis übernommen (automat
@@ -3117,7 +2998,7 @@ UID:bb26-20270708-0815-wu543619@bfh-lektionen
 DTSTAMP:20261025T093236Z
 DTSTART;TZID=Europe/Zurich:20270708T081500
 DTEND;TZID=Europe/Zurich:20270708T090000
-SUMMARY:Forschung: SCHRIFTLICHE PRÜFUNG
+SUMMARY:🔴 Forschung: SCHRIFTLICHE PRÜFUNG
 LOCATION:SPEN-A 411\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
  stein
 DESCRIPTION:Modul: Basiswissen Forschung\nAus WebUntis übernommen (autom
@@ -3150,7 +3031,7 @@ UID:bb26-20270708-1015-wu552208@bfh-lektionen
 DTSTAMP:20261025T093236Z
 DTSTART;TZID=Europe/Zurich:20270708T101500
 DTEND;TZID=Europe/Zurich:20270708T120000
-SUMMARY:Syst. Pflege: MODULABSCHLUSSPRÜFUNG
+SUMMARY:🔴 Syst. Pflege: MODULABSCHLUSSPRÜFUNG
 LOCATION:SPEN-A 411\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
  stein
 DESCRIPTION:Modul: Systemische Pflege und Ethik\nAus WebUntis übernommen

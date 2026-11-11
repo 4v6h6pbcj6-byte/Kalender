@@ -4119,5 +4119,223 @@ null
 560191,
 560207,
 564076
+],
+"entfallen": {
+"bb26-20261023-0815-dst-19@bfh-lektionen": {
+"fields": {
+"UID": "bb26-20261023-0815-dst-19@bfh-lektionen",
+"DTSTAMP": "20261023T034623Z",
+"DTSTART;TZID=Europe/Zurich": "20261023T081500",
+"DTEND;TZID=Europe/Zurich": "20261023T100000",
+"SUMMARY": "ENTF\u00c4LLT: Statistik: Binomialverteilung",
+"LOCATION": "SPEN-A 425\\, BFH Gesundheit\\, Binningerstrasse 2\\, 4142 M\u00fcnchenstein",
+"DESCRIPTION": "Modul: Deskriptive Statistik\\nArt: Vorlesung\\nForm: Pr\u00e4senz vor Ort\\nThema 5. Weiterf\u00fchrende Literatur: M\u00fcller (2019)\\, S. 81\u201384.\\nHeute 08:00 f\u00e4llig: \u00dcbung 3 und \u00dcbung 4 auf Moodle.",
+"CATEGORIES": "Deskriptive Statistik",
+"TRANSP": "OPAQUE"
+},
+"order": [
+"UID",
+"DTSTAMP",
+"DTSTART;TZID=Europe/Zurich",
+"DTEND;TZID=Europe/Zurich",
+"SUMMARY",
+"LOCATION",
+"DESCRIPTION",
+"CATEGORIES",
+"TRANSP"
 ]
+},
+"bb26-20261106-1415-pp-35@bfh-lektionen": {
+"fields": {
+"UID": "bb26-20261106-1415-pp-35@bfh-lektionen",
+"DTSTAMP": "20261027T044817Z",
+"DTSTART;TZID=Europe/Zurich": "20261106T141500",
+"DTEND;TZID=Europe/Zurich": "20261106T150000",
+"SUMMARY": "ENTF\u00c4LLT: Prof. Pflege: Expert*innenforum: Intra-\\, Interprofessionalit\u00e4t (online)",
+"LOCATION": "Online (Link auf Moodle / MS Teams)",
+"DESCRIPTION": "Modul: Professionelle Pflege\\nArt: Expert*innenforum\\nForm: Online\\nThema 6\\, Interprofessionalit\u00e4t: Theorie und Praxis. Fragen aus PBL 2 mitbringen.\\nOnline. Ersatzraum vor Ort\\, falls du an der BFH bist: SPEN-A 425.",
+"CATEGORIES": "Professionelle Pflege",
+"TRANSP": "OPAQUE"
+},
+"order": [
+"UID",
+"DTSTAMP",
+"DTSTART;TZID=Europe/Zurich",
+"DTEND;TZID=Europe/Zurich",
+"SUMMARY",
+"LOCATION",
+"DESCRIPTION",
+"CATEGORIES",
+"TRANSP"
+]
+},
+"bb26-20261120-0815-ifs-46@bfh-lektionen": {
+"fields": {
+"UID": "bb26-20261120-0815-ifs-46@bfh-lektionen",
+"DTSTAMP": "20261023T034623Z",
+"DTSTART;TZID=Europe/Zurich": "20261120T081500",
+"DTEND;TZID=Europe/Zurich": "20261120T100000",
+"SUMMARY": "ENTF\u00c4LLT: Inferenzstatistik: z-Test",
+"LOCATION": "SPEN-A 425\\, BFH Gesundheit\\, Binningerstrasse 2\\, 4142 M\u00fcnchenstein",
+"DESCRIPTION": "Modul: Inferenzstatistik\\nArt: Vorlesung\\nForm: Pr\u00e4senz vor Ort\\nModulhandbuch noch nicht verf\u00fcgbar.",
+"CATEGORIES": "Inferenzstatistik",
+"TRANSP": "OPAQUE"
+},
+"order": [
+"UID",
+"DTSTAMP",
+"DTSTART;TZID=Europe/Zurich",
+"DTEND;TZID=Europe/Zurich",
+"SUMMARY",
+"LOCATION",
+"DESCRIPTION",
+"CATEGORIES",
+"TRANSP"
+]
+},
+"bb26-20261120-1015-ifs-47@bfh-lektionen": {
+"fields": {
+"UID": "bb26-20261120-1015-ifs-47@bfh-lektionen",
+"DTSTAMP": "20261023T034623Z",
+"DTSTART;TZID=Europe/Zurich": "20261120T101500",
+"DTEND;TZID=Europe/Zurich": "20261120T120000",
+"SUMMARY": "ENTF\u00c4LLT: Inferenzstatistik: t-Test",
+"LOCATION": "SPEN-A 425\\, BFH Gesundheit\\, Binningerstrasse 2\\, 4142 M\u00fcnchenstein",
+"DESCRIPTION": "Modul: Inferenzstatistik\\nArt: Vorlesung\\nForm: Pr\u00e4senz vor Ort\\nModulhandbuch noch nicht verf\u00fcgbar.",
+"CATEGORIES": "Inferenzstatistik",
+"TRANSP": "OPAQUE"
+},
+"order": [
+"UID",
+"DTSTAMP",
+"DTSTART;TZID=Europe/Zurich",
+"DTEND;TZID=Europe/Zurich",
+"SUMMARY",
+"LOCATION",
+"DESCRIPTION",
+"CATEGORIES",
+"TRANSP"
+]
+},
+"bb26-20270122-0815-ifs-76@bfh-lektionen": {
+"fields": {
+"UID": "bb26-20270122-0815-ifs-76@bfh-lektionen",
+"DTSTAMP": "20261111T044625Z",
+"DTSTART;TZID=Europe/Zurich": "20270122T081500",
+"DTEND;TZID=Europe/Zurich": "20270122T100000",
+"SUMMARY": "ENTF\u00c4LLT: Inferenzstatistik: Repetitorium",
+"LOCATION": "SPEN-A 255 / 256\\, BFH Gesundheit\\, Binningerstrasse 2\\, 4142 M\u00fcnchenstein",
+"DESCRIPTION": "Modul: Inferenzstatistik\\nArt: Vorlesung\\nForm: Pr\u00e4senz vor Ort\\nModulhandbuch noch nicht verf\u00fcgbar.",
+"CATEGORIES": "Inferenzstatistik",
+"TRANSP": "OPAQUE"
+},
+"order": [
+"UID",
+"DTSTAMP",
+"DTSTART;TZID=Europe/Zurich",
+"DTEND;TZID=Europe/Zurich",
+"SUMMARY",
+"LOCATION",
+"DESCRIPTION",
+"CATEGORIES",
+"TRANSP"
+]
+},
+"bb26-20270122-1015-gop-77@bfh-lektionen": {
+"fields": {
+"UID": "bb26-20270122-1015-gop-77@bfh-lektionen",
+"DTSTAMP": "20261111T044625Z",
+"DTSTART;TZID=Europe/Zurich": "20270122T101500",
+"DTEND;TZID=Europe/Zurich": "20270122T120000",
+"SUMMARY": "ENTF\u00c4LLT: G\u00d6P: Beratung Positionspapier",
+"LOCATION": "SPEN-A 255 / 256 / 232\\, BFH Gesundheit\\, Binningerstrasse 2\\, 4142 M\u00fcnchenstein",
+"DESCRIPTION": "Modul: Gesundheits\u00f6konomie und Gesundheitspolitik\\nArt: Beratung\\nForm: Pr\u00e4senz vor Ort\\nModulhandbuch noch nicht verf\u00fcgbar.",
+"CATEGORIES": "Gesundheits\u00f6konomie und Gesundheitspolitik",
+"TRANSP": "OPAQUE"
+},
+"order": [
+"UID",
+"DTSTAMP",
+"DTSTART;TZID=Europe/Zurich",
+"DTEND;TZID=Europe/Zurich",
+"SUMMARY",
+"LOCATION",
+"DESCRIPTION",
+"CATEGORIES",
+"TRANSP"
+]
+},
+"bb26-20270322-0815-wu545572@bfh-lektionen": {
+"fields": {
+"UID": "bb26-20270322-0815-wu545572@bfh-lektionen",
+"DTSTAMP": "20261105T044635Z",
+"DTSTART;TZID=Europe/Zurich": "20270322T081500",
+"DTEND;TZID=Europe/Zurich": "20270322T120000",
+"SUMMARY": "ENTF\u00c4LLT: KA 2: SKT: Psychischer Zustand",
+"LOCATION": "SPEN-A 427\\, BFH Gesundheit\\, Binningerstrasse 2\\, 4142 M\u00fcnchenstein",
+"DESCRIPTION": "Modul: Klinisches Assessment 2\\nAus WebUntis \u00fcbernommen (automatisch).",
+"CATEGORIES": "Klinisches Assessment 2",
+"TRANSP": "OPAQUE"
+},
+"order": [
+"UID",
+"DTSTAMP",
+"DTSTART;TZID=Europe/Zurich",
+"DTEND;TZID=Europe/Zurich",
+"SUMMARY",
+"LOCATION",
+"DESCRIPTION",
+"CATEGORIES",
+"TRANSP"
+]
+},
+"bb26-20270322-0815-wu564979@bfh-lektionen": {
+"fields": {
+"UID": "bb26-20270322-0815-wu564979@bfh-lektionen",
+"DTSTAMP": "20261105T044635Z",
+"DTSTART;TZID=Europe/Zurich": "20270322T081500",
+"DTEND;TZID=Europe/Zurich": "20270322T120000",
+"SUMMARY": "ENTF\u00c4LLT: KA 2: SKT: Psychischer Zustand",
+"LOCATION": "SPEN-A 427\\, BFH Gesundheit\\, Binningerstrasse 2\\, 4142 M\u00fcnchenstein",
+"DESCRIPTION": "Modul: Klinisches Assessment 2\\nAus WebUntis \u00fcbernommen (automatisch).",
+"CATEGORIES": "Klinisches Assessment 2",
+"TRANSP": "OPAQUE"
+},
+"order": [
+"UID",
+"DTSTAMP",
+"DTSTART;TZID=Europe/Zurich",
+"DTEND;TZID=Europe/Zurich",
+"SUMMARY",
+"LOCATION",
+"DESCRIPTION",
+"CATEGORIES",
+"TRANSP"
+]
+},
+"bb26-20270322-1315-wu559420@bfh-lektionen": {
+"fields": {
+"UID": "bb26-20270322-1315-wu559420@bfh-lektionen",
+"DTSTAMP": "20261105T044635Z",
+"DTSTART;TZID=Europe/Zurich": "20270322T131500",
+"DTEND;TZID=Europe/Zurich": "20270322T140000",
+"SUMMARY": "ENTF\u00c4LLT: Beratung/eHealth: EF: Frageforum zum KNW",
+"LOCATION": "SPEN-A 255 / 256\\, BFH Gesundheit\\, Binningerstrasse 2\\, 4142 M\u00fcnchenstein",
+"DESCRIPTION": "Modul: Beratung und eHealth\\nAus WebUntis \u00fcbernommen (automatisch).",
+"CATEGORIES": "Beratung und eHealth",
+"TRANSP": "OPAQUE"
+},
+"order": [
+"UID",
+"DTSTAMP",
+"DTSTART;TZID=Europe/Zurich",
+"DTEND;TZID=Europe/Zurich",
+"SUMMARY",
+"LOCATION",
+"DESCRIPTION",
+"CATEGORIES",
+"TRANSP"
+]
+}
+}
 }
