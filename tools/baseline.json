@@ -771,8 +771,7 @@ null
 "start": "1315",
 "end": "1700",
 "rooms": [
-"SPEN-A 425",
-"SPEN-A 426"
+"Online-G-G"
 ],
 "lessonIds": [
 550288,
@@ -1475,14 +1474,14 @@ null
 "ids": [
 1461801
 ],
-"cancelled": [],
-"start": "1315",
-"end": "1400",
-"rooms": [
-"SPEN-A 411"
+"cancelled": [
+1461801
 ],
+"start": null,
+"end": null,
+"rooms": [],
 "lessonIds": [
-544207
+null
 ]
 },
 "bb26-20261023-1215-wu564262@bfh-lektionen": {
@@ -3381,6 +3380,20 @@ null
 544477,
 544483
 ]
+},
+"bb26-20270205-0815-wu544207@bfh-lektionen": {
+"ids": [
+1519259
+],
+"cancelled": [],
+"start": "0815",
+"end": "0900",
+"rooms": [
+"SPEN-A 411"
+],
+"lessonIds": [
+544207
+]
 }
 },
 "known": [
@@ -4000,7 +4013,8 @@ null
 1519236,
 1519239,
 1519242,
-1519245
+1519245,
+1519259
 ],
 "mine": [
 543670,
@@ -4250,6 +4264,30 @@ null
 "SUMMARY": "ENTF\u00c4LLT: G\u00d6P: Beratung Positionspapier",
 "LOCATION": "SPEN-A 255 / 256 / 232\\, BFH Gesundheit\\, Binningerstrasse 2\\, 4142 M\u00fcnchenstein",
 "DESCRIPTION": "Modul: Gesundheits\u00f6konomie und Gesundheitspolitik\\nArt: Beratung\\nForm: Pr\u00e4senz vor Ort\\nModulhandbuch noch nicht verf\u00fcgbar.",
+"CATEGORIES": "Gesundheits\u00f6konomie und Gesundheitspolitik",
+"TRANSP": "OPAQUE"
+},
+"order": [
+"UID",
+"DTSTAMP",
+"DTSTART;TZID=Europe/Zurich",
+"DTEND;TZID=Europe/Zurich",
+"SUMMARY",
+"LOCATION",
+"DESCRIPTION",
+"CATEGORIES",
+"TRANSP"
+]
+},
+"bb26-20270205-1315-wu544207@bfh-lektionen": {
+"fields": {
+"UID": "bb26-20270205-1315-wu544207@bfh-lektionen",
+"DTSTAMP": "20261112T044613Z",
+"DTSTART;TZID=Europe/Zurich": "20270205T131500",
+"DTEND;TZID=Europe/Zurich": "20270205T140000",
+"SUMMARY": "ENTF\u00c4LLT: G\u00d6P: PR\u00dcFUNG: Schriftliche Pr\u00fcfung",
+"LOCATION": "SPEN-A 411\\, BFH Gesundheit\\, Binningerstrasse 2\\, 4142 M\u00fcnchenstein",
+"DESCRIPTION": "Modul: Gesundheits\u00f6konomie und Gesundheitspolitik\\nAus WebUntis \u00fcbernommen (automatisch).",
 "CATEGORIES": "Gesundheits\u00f6konomie und Gesundheitspolitik",
 "TRANSP": "OPAQUE"
 },
