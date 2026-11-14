@@ -1114,13 +1114,25 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20261204-1315-ifs-56@bfh-lektionen
-DTSTAMP:20260928T214710Z
-DTSTART;TZID=Europe/Zurich:20261204T131500
+DTSTAMP:20261114T044615Z
+DTSTART;TZID=Europe/Zurich:20261204T141500
 DTEND;TZID=Europe/Zurich:20261204T150000
 SUMMARY:Inferenzstatistik: Chi-Quadrat (online)
 LOCATION:Online (Link auf Moodle / MS Teams)
 DESCRIPTION:Modul: Inferenzstatistik\nArt: Vorlesung\nForm: Online\nModul
  handbuch noch nicht verfügbar.
+CATEGORIES:Inferenzstatistik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26-20261204-1515-wu544252@bfh-lektionen
+DTSTAMP:20261114T044615Z
+DTSTART;TZID=Europe/Zurich:20261204T151500
+DTEND;TZID=Europe/Zurich:20261204T160000
+SUMMARY:Inferenzstatistik: VL: Chisquare
+LOCATION:Online (Link auf Moodle / MS Teams)
+DESCRIPTION:Modul: Inferenzstatistik\nAus WebUntis übernommen (automatis
+ ch).
 CATEGORIES:Inferenzstatistik
 TRANSP:OPAQUE
 END:VEVENT

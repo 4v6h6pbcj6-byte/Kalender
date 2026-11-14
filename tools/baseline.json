@@ -913,14 +913,17 @@ null
 1461900,
 1461903
 ],
-"cancelled": [],
-"start": "1315",
+"cancelled": [
+1461900
+],
+"start": "1415",
 "end": "1500",
 "rooms": [
 "Online-G-SC"
 ],
 "lessonIds": [
-544252
+544252,
+null
 ]
 },
 "bb26-20261207-1315-ka-57@bfh-lektionen": {
@@ -3394,6 +3397,20 @@ null
 "lessonIds": [
 544207
 ]
+},
+"bb26-20261204-1515-wu544252@bfh-lektionen": {
+"ids": [
+1519281
+],
+"cancelled": [],
+"start": "1515",
+"end": "1600",
+"rooms": [
+"Online-G-SC"
+],
+"lessonIds": [
+544252
+]
 }
 },
 "known": [
@@ -4014,7 +4031,8 @@ null
 1519239,
 1519242,
 1519245,
-1519259
+1519259,
+1519281
 ],
 "mine": [
 543670,
