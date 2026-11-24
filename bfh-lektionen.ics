@@ -1020,12 +1020,12 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20261124-1315-pp-51@bfh-lektionen
-DTSTAMP:20260928T214710Z
+DTSTAMP:20261124T044613Z
 DTSTART;TZID=Europe/Zurich:20261124T131500
 DTEND;TZID=Europe/Zurich:20261124T170000
 SUMMARY:Prof. Pflege: Mini-Präsentationen / Diskussion Public Health
-LOCATION:SPEN-A 425 / 426\, BFH Gesundheit\, Binningerstrasse 2\, 4142 M
- ünchenstein
+LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
+ stein
 DESCRIPTION:Modul: Professionelle Pflege\nArt: Gruppenarbeit\nForm: Präs
  enz vor Ort\nThema 8. Präsentation pro Gruppe 10 Min. plus 10 Min. Disku
  ssion\, Visualisierung Pflicht (PPP oder Flipchart)\, alle beteiligen sic
