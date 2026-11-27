@@ -1169,12 +1169,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20261208-0915-gop-58@bfh-lektionen
-DTSTAMP:20260928T214710Z
+DTSTAMP:20261127T044630Z
 DTSTART;TZID=Europe/Zurich:20261208T091500
 DTEND;TZID=Europe/Zurich:20261208T100000
 SUMMARY:GÖP: Moduleinführung
-LOCATION:SPEN-A 425\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
- stein
+LOCATION:Online (Link auf Moodle / MS Teams)
 DESCRIPTION:Modul: Gesundheitsökonomie und Gesundheitspolitik\nArt: Einf
  ührung\nForm: Präsenz vor Ort\nModulhandbuch noch nicht verfügbar.
 CATEGORIES:Gesundheitsökonomie und Gesundheitspolitik
