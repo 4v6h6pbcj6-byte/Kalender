@@ -1350,6 +1350,18 @@ CATEGORIES:Klinisches Assessment 1
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:bb26-20270112-0815-wu544189@bfh-lektionen
+DTSTAMP:20261128T044627Z
+DTSTART;TZID=Europe/Zurich:20270112T081500
+DTEND;TZID=Europe/Zurich:20270112T100000
+SUMMARY:GÖP: VL: Planetary Health - Kreislaufwirtschaft
+LOCATION:Ort noch offen (siehe WebUntis)
+DESCRIPTION:Modul: Gesundheitsökonomie und Gesundheitspolitik\nAus WebUn
+ tis übernommen (automatisch).
+CATEGORIES:Gesundheitsökonomie und Gesundheitspolitik
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:bb26-20270112-1015-ifs-70@bfh-lektionen
 DTSTAMP:20260928T214710Z
 DTSTART;TZID=Europe/Zurich:20270112T101500
@@ -1564,19 +1576,6 @@ ACTION:DISPLAY
 DESCRIPTION:Morgen: KA 1: PRÜFUNG: Modulabschlussprüfung (70 %)
 TRIGGER:-P1D
 END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:bb26-20270126-1015-gop-81@bfh-lektionen
-DTSTAMP:20260928T214710Z
-DTSTART;TZID=Europe/Zurich:20270126T101500
-DTEND;TZID=Europe/Zurich:20270126T120000
-SUMMARY:GÖP: Planetary Health: Kreislaufwirtschaft
-LOCATION:SPEN-A 415\, BFH Gesundheit\, Binningerstrasse 2\, 4142 München
- stein
-DESCRIPTION:Modul: Gesundheitsökonomie und Gesundheitspolitik\nArt: Vorl
- esung\nForm: Präsenz vor Ort\nModulhandbuch noch nicht verfügbar.
-CATEGORIES:Gesundheitsökonomie und Gesundheitspolitik
-TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:bb26-20270126-1315-gop-82@bfh-lektionen

@@ -1360,14 +1360,15 @@ null
 1461753,
 1461756
 ],
-"cancelled": [],
-"start": "1015",
-"end": "1200",
-"rooms": [
-"SPEN-A 415"
+"cancelled": [
+1461753,
+1461756
 ],
+"start": null,
+"end": null,
+"rooms": [],
 "lessonIds": [
-544189
+null
 ]
 },
 "bb26-20270126-1315-gop-82@bfh-lektionen": {
@@ -3410,6 +3411,19 @@ null
 "lessonIds": [
 544252
 ]
+},
+"bb26-20270112-0815-wu544189@bfh-lektionen": {
+"ids": [
+1519547,
+1519550
+],
+"cancelled": [],
+"start": "0815",
+"end": "1000",
+"rooms": [],
+"lessonIds": [
+544189
+]
 }
 },
 "known": [
@@ -4031,7 +4045,9 @@ null
 1519242,
 1519245,
 1519259,
-1519281
+1519281,
+1519547,
+1519550
 ],
 "mine": [
 543670,
@@ -4281,6 +4297,30 @@ null
 "SUMMARY": "ENTF\u00c4LLT: G\u00d6P: Beratung Positionspapier",
 "LOCATION": "SPEN-A 255 / 256 / 232\\, BFH Gesundheit\\, Binningerstrasse 2\\, 4142 M\u00fcnchenstein",
 "DESCRIPTION": "Modul: Gesundheits\u00f6konomie und Gesundheitspolitik\\nArt: Beratung\\nForm: Pr\u00e4senz vor Ort\\nModulhandbuch noch nicht verf\u00fcgbar.",
+"CATEGORIES": "Gesundheits\u00f6konomie und Gesundheitspolitik",
+"TRANSP": "OPAQUE"
+},
+"order": [
+"UID",
+"DTSTAMP",
+"DTSTART;TZID=Europe/Zurich",
+"DTEND;TZID=Europe/Zurich",
+"SUMMARY",
+"LOCATION",
+"DESCRIPTION",
+"CATEGORIES",
+"TRANSP"
+]
+},
+"bb26-20270126-1015-gop-81@bfh-lektionen": {
+"fields": {
+"UID": "bb26-20270126-1015-gop-81@bfh-lektionen",
+"DTSTAMP": "20261128T044627Z",
+"DTSTART;TZID=Europe/Zurich": "20270126T101500",
+"DTEND;TZID=Europe/Zurich": "20270126T120000",
+"SUMMARY": "ENTF\u00c4LLT: G\u00d6P: Planetary Health: Kreislaufwirtschaft",
+"LOCATION": "SPEN-A 415\\, BFH Gesundheit\\, Binningerstrasse 2\\, 4142 M\u00fcnchenstein",
+"DESCRIPTION": "Modul: Gesundheits\u00f6konomie und Gesundheitspolitik\\nArt: Vorlesung\\nForm: Pr\u00e4senz vor Ort\\nModulhandbuch noch nicht verf\u00fcgbar.",
 "CATEGORIES": "Gesundheits\u00f6konomie und Gesundheitspolitik",
 "TRANSP": "OPAQUE"
 },
